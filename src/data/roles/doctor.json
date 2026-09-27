@@ -1,0 +1,725 @@
+{
+  "profile": {
+    "name": "Dr. Ananya Sharma",
+    "designation": "MDS, Cosmetic & Implant Dentist",
+    "tagline": "15,000+ smiles designed in Pune since 2011",
+    "shortBio": "Top-rated Cosmetic & Implant Dentist with over a decade of experience in painless procedures.",
+    "longBio": "Hi, I am Dr. Ananya Sharma. Since 2011, my focus has been on providing painless, high-quality dental care in Pune. Whether it is a simple cavity or complex full-mouth implants, our clinic uses state-of-the-art technology to ensure you leave with a perfect smile.",
+    "experienceYears": 14,
+    "languages": [
+      "English",
+      "Hindi"
+    ],
+    "avatar": "https://i.pravatar.cc/150?u=doc1",
+    "coverImage": "/images/roles/doctor/image-1.jpg",
+    "coverVideo": null,
+    "logo": "/images/roles/doctor/logo.svg",
+    "bio": "Hello! I am dedicated to providing the best service in my field. With years of experience and a passion for excellence, I strive to meet and exceed expectations."
+  },
+  "contact": {
+    "whatsapp": "+919876543210",
+    "phone": "+919876543210",
+    "altPhone": "+919876543210",
+    "email": "hello@example.in",
+    "website": "https://example.in",
+    "address": {
+      "line1": "Smile Studio Dental Care",
+      "line2": "FC Road",
+      "city": "Pune",
+      "state": "Maharashtra",
+      "pincode": "411005",
+      "country": "India",
+      "lat": 18.5204,
+      "lng": 73.8567,
+      "googleMapsUrl": "https://maps.google.com/?q=18.5204,73.8567",
+      "plusCode": ""
+    },
+    "hours": [
+      {
+        "day": "mon",
+        "open": "10:00",
+        "close": "20:00",
+        "breakStart": "13:00",
+        "breakEnd": "16:00"
+      },
+      {
+        "day": "tue",
+        "open": "10:00",
+        "close": "20:00",
+        "breakStart": "13:00",
+        "breakEnd": "16:00"
+      },
+      {
+        "day": "wed",
+        "open": "10:00",
+        "close": "20:00",
+        "breakStart": "13:00",
+        "breakEnd": "16:00"
+      },
+      {
+        "day": "thu",
+        "open": "10:00",
+        "close": "20:00",
+        "breakStart": "13:00",
+        "breakEnd": "16:00"
+      },
+      {
+        "day": "fri",
+        "open": "10:00",
+        "close": "20:00",
+        "breakStart": "13:00",
+        "breakEnd": "16:00"
+      },
+      {
+        "day": "sat",
+        "open": "10:00",
+        "close": "17:00",
+        "breakStart": "13:00",
+        "breakEnd": "16:00"
+      },
+      {
+        "day": "sun",
+        "open": null,
+        "close": null,
+        "breakStart": null,
+        "breakEnd": null
+      }
+    ],
+    "socials": {
+      "instagram": "",
+      "facebook": "",
+      "linkedin": "",
+      "youtube": "",
+      "x": "",
+      "justdial": "",
+      "googleBusiness": "https://g.page/r/example-smile-studio/review"
+    }
+  },
+  "trust": {
+    "badges": [
+      {
+        "icon": "shield-check",
+        "label": "MDS Certified",
+        "sub": "Maharashtra Dental Council"
+      },
+      {
+        "icon": "star",
+        "label": "4.9 / 5",
+        "sub": "482 Google Reviews"
+      }
+    ],
+    "stats": [
+      {
+        "value": 15000,
+        "suffix": "+",
+        "label": "Happy Patients"
+      },
+      {
+        "value": 14,
+        "suffix": " yrs",
+        "label": "Experience"
+      }
+    ],
+    "registrationId": "MDC/2011/48291",
+    "associations": []
+  },
+  "services": [
+    {
+      "id": "implants",
+      "title": "Dental Implants",
+      "description": "Single-day basal implants with 10-year warranty.",
+      "icon": "tooth",
+      "image": "/images/roles/doctor/image-2.jpg",
+      "priceFrom": 18000,
+      "priceUnit": "per tooth",
+      "duration": "60-90 min",
+      "highlights": [
+        "Painless",
+        "Same-day crown",
+        "EMI available"
+      ],
+      "ctaIntent": "appointment_book"
+    },
+    {
+      "id": "rct",
+      "title": "Painless Root Canal",
+      "description": "Advanced rotary endodontics in a single sitting.",
+      "icon": "activity",
+      "image": "/images/roles/doctor/image-3.jpg",
+      "priceFrom": 4500,
+      "priceUnit": "per tooth",
+      "duration": "45 min",
+      "highlights": [
+        "No pain",
+        "Cap included options"
+      ],
+      "ctaIntent": "appointment_book"
+    }
+  ],
+  "gallery": [
+    {
+      "type": "image",
+      "src": "/images/roles/doctor/image-4.jpg",
+      "alt": "Modern Clinic Interior",
+      "width": 1600,
+      "height": 1067,
+      "tags": [
+        "clinic"
+      ]
+    },
+    {
+      "type": "image",
+      "src": "/images/roles/doctor/image-5.jpg",
+      "alt": "Dental Chair Setup",
+      "width": 1600,
+      "height": 1067,
+      "tags": [
+        "equipment"
+      ]
+    },
+    {
+      "type": "image",
+      "src": "/images/roles/doctor/image-6.jpg",
+      "alt": "Patient Consultation",
+      "width": 1600,
+      "height": 1067,
+      "tags": [
+        "consultation"
+      ]
+    },
+    {
+      "type": "image",
+      "src": "/images/roles/doctor/image-7.jpg",
+      "alt": "Hygiene Protocol",
+      "width": 1600,
+      "height": 1067,
+      "tags": [
+        "safety"
+      ]
+    },
+    {
+      "type": "image",
+      "src": "/images/roles/doctor/image-8.jpg",
+      "alt": "Waiting Area",
+      "width": 1600,
+      "height": 1067,
+      "tags": [
+        "clinic"
+      ]
+    },
+    {
+      "type": "image",
+      "src": "/images/roles/doctor/image-9.jpg",
+      "alt": "Teeth Whitening",
+      "width": 1600,
+      "height": 1067,
+      "tags": [
+        "treatment"
+      ]
+    },
+    {
+      "type": "image",
+      "src": "/images/roles/doctor/image-10.jpg",
+      "alt": "Happy Patient",
+      "width": 1600,
+      "height": 1067,
+      "tags": [
+        "patients"
+      ]
+    },
+    {
+      "type": "video",
+      "src": "https://www.w3schools.com/html/mov_bbb.mp4",
+      "poster": "https://img.youtube.com/vi/aqz-KE-bpKQ/maxresdefault.jpg",
+      "alt": "Clinic Tour Video",
+      "width": 1280,
+      "height": 720,
+      "tags": [
+        "tour"
+      ]
+    }
+  ],
+  "testimonials": [
+    {
+      "name": "Rohit Deshmukh",
+      "role": "Patient · Kothrud",
+      "avatar": "https://i.pravatar.cc/150?u=rohit",
+      "rating": 5,
+      "text": "Bohot dar lagta tha dentist ke paas jaane se, but Dr. Ananya ne root canal itne aaram se kiya ki pata hi nahi chala. Highly recommended!",
+      "date": "2025-11-14",
+      "source": "google"
+    },
+    {
+      "name": "Sneha Iyer",
+      "role": "Patient · Baner",
+      "avatar": "https://i.pravatar.cc/150?u=sneha",
+      "rating": 5,
+      "text": "Got my veneers done here. The staff is extremely polite and the clinic hygiene is top-notch. Result dekhte hi my confidence boosted.",
+      "date": "2026-01-10",
+      "source": "google"
+    },
+    {
+      "name": "Kunal Sharma",
+      "role": "Patient · Aundh",
+      "avatar": "https://i.pravatar.cc/150?u=kunal",
+      "rating": 4,
+      "text": "The wait time was a bit long despite appointment, par treatment badhiya tha. Implants feel totally natural.",
+      "date": "2025-12-05",
+      "source": "google"
+    },
+    {
+      "name": "Aditi Joshi",
+      "role": "Patient · Viman Nagar",
+      "avatar": "https://i.pravatar.cc/150?u=aditi",
+      "rating": 5,
+      "text": "Very transparent pricing. Pehle hi sab clearly explain kar diya tha. My entire family visits her now.",
+      "date": "2026-02-20",
+      "source": "google"
+    },
+    {
+      "name": "Manoj Tiwari",
+      "role": "Patient · Hinjewadi",
+      "avatar": "https://i.pravatar.cc/150?u=manoj",
+      "rating": 5,
+      "text": "Sunday ko bhi emergency me time diya. Mere bete ka tooth extraction bina kisi rone ke ho gaya. Best pediatric care.",
+      "date": "2025-10-18",
+      "source": "justdial"
+    },
+    {
+      "name": "Pooja Patil",
+      "role": "Patient · Shivaji Nagar",
+      "avatar": "https://i.pravatar.cc/150?u=pooja",
+      "rating": 5,
+      "text": "I did teeth whitening before my wedding. Amazing results! Everyone asked me about it. Thank you Doctor.",
+      "date": "2026-03-01",
+      "source": "google"
+    },
+    {
+      "name": "Farhan Qureshi",
+      "role": "Patient · Camp",
+      "avatar": "https://i.pravatar.cc/150?u=farhan",
+      "rating": 5,
+      "text": "Implant ke liye 3 clinics compare kiye the. Yahan cost pehle hi clearly bata di, koi hidden charges nahi. EMI bhi easily ho gaya.",
+      "date": "2026-04-02",
+      "source": "google"
+    },
+    {
+      "name": "Lakshmi Nair",
+      "role": "Parent · Wakad",
+      "avatar": "https://i.pravatar.cc/150?u=lakshmi",
+      "rating": 5,
+      "text": "My 7-year-old was terrified, but the team was so patient with her. She actually wants to come back for her next check-up!",
+      "date": "2026-02-11",
+      "source": "facebook"
+    },
+    {
+      "name": "Vikram Kulkarni",
+      "role": "Patient · Deccan",
+      "avatar": "https://i.pravatar.cc/150?u=vikram",
+      "rating": 4,
+      "text": "Raat ko achanak severe dard hua, WhatsApp kiya aur subah 10 baje ka slot mil gaya. Waiting thoda tha, but treatment excellent.",
+      "date": "2026-05-19",
+      "source": "google"
+    },
+    {
+      "name": "Neha Agarwal",
+      "role": "Patient · Kalyani Nagar",
+      "avatar": "https://i.pravatar.cc/150?u=neha",
+      "rating": 5,
+      "text": "Cashless claim with my corporate policy was handled by the front desk itself. I only paid the difference. Very smooth experience.",
+      "date": "2026-06-07",
+      "source": "direct"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Is a root canal painful?",
+      "a": "Not at all. We use local anesthesia and advanced rotary technology so you won't feel pain during the procedure. Thoda sensitivity ho sakta hai baad me, jo 1-2 din me theek ho jayega."
+    },
+    {
+      "q": "Do you offer EMI for dental implants?",
+      "a": "Yes, we have 0% interest EMI options available through Bajaj Finserv for treatments above ₹20,000."
+    },
+    {
+      "q": "How long does teeth whitening last?",
+      "a": "Usually 1 to 3 years depending on your lifestyle. Tea, coffee, and smoking ka asar padta hai, so touch-ups are recommended."
+    },
+    {
+      "q": "Do I need an appointment or can I walk in?",
+      "a": "Prior appointment is highly recommended to avoid waiting, par dental emergencies like severe pain me walk-ins are accommodated immediately."
+    },
+    {
+      "q": "Konsa insurance accept karte ho aap?",
+      "a": "We accept most major corporate cashless policies including Star Health and HDFC Ergo. You can send your card details on WhatsApp to verify."
+    },
+    {
+      "q": "How much do dental implants cost?",
+      "a": "A single implant with crown starts from ₹18,000 per tooth. Final cost depends on bone condition and implant brand — use the cost estimator above or send your X-ray on WhatsApp for an exact quote."
+    },
+    {
+      "q": "Can I consult the doctor online first?",
+      "a": "Yes. A video teleconsult on Google Meet costs ₹300 — ideal for a second opinion or to review your X-rays before visiting. Book it from the Teleconsult section."
+    },
+    {
+      "q": "Can I pay in instalments without a credit card?",
+      "a": "Yes. No-cost EMI is available on debit cards and through finance partners for eligible treatments. KYC documents ready rakhein, approval 10 minutes me ho jaata hai."
+    },
+    {
+      "q": "What are your clinic timings?",
+      "a": "Monday to Friday 10 AM – 8 PM, Saturday 10 AM – 5 PM, with a 1 – 4 PM break every day. Sunday is closed. Live open/closed status is shown at the top of this page."
+    },
+    {
+      "q": "What should I do in a dental emergency?",
+      "a": "For severe pain, swelling or a knocked-out tooth, call the emergency number right away. Knocked-out tooth ko doodh me rakh kar 30 minute ke andar clinic aayein."
+    },
+    {
+      "q": "Do you treat children?",
+      "a": "Yes, we see children from 3 years onwards for check-ups, fillings, fluoride and sealants, in a calm, child-friendly setting."
+    },
+    {
+      "q": "How do you ensure hygiene and sterilisation?",
+      "a": "Every instrument goes through a Class B autoclave cycle and is sealed in a pouch that is opened in front of you. Disposables are single-use only."
+    }
+  ],
+  "cta": {
+    "primary": {
+      "label": "Book Appointment",
+      "intent": "appointment_book"
+    },
+    "secondary": {
+      "label": "Save My Contact",
+      "intent": "vcard_download"
+    }
+  },
+  "leadForm": {
+    "title": "Request a callback",
+    "subtitle": "We reply on WhatsApp within 10 minutes.",
+    "fields": [
+      "name",
+      "phone",
+      "message"
+    ],
+    "intent": "callback_request",
+    "consentText": "I agree to be contacted on WhatsApp."
+  },
+  "seo": {
+    "title": "Dr. Ananya Sharma - MDS, Cosmetic & Implant Dentist, Pune",
+    "description": "Placeholder SEO description for the doctor role.",
+    "keywords": [
+      "dentist in pune",
+      "dental implants pune"
+    ],
+    "ogImage": "auto"
+  },
+  "module": {
+    "slots": {
+      "days": [
+        "today",
+        "tomorrow"
+      ],
+      "periods": [
+        {
+          "key": "morning",
+          "label": "Morning",
+          "range": "10:00 AM - 1:00 PM",
+          "capacity": 8
+        },
+        {
+          "key": "evening",
+          "label": "Evening",
+          "range": "4:00 PM - 8:00 PM",
+          "capacity": 10
+        }
+      ],
+      "unavailable": [
+        {
+          "day": "tomorrow",
+          "period": "morning"
+        }
+      ],
+      "booked": [
+        {
+          "day": "today",
+          "period": "morning",
+          "count": 6
+        },
+        {
+          "day": "today",
+          "period": "evening",
+          "count": 7
+        },
+        {
+          "day": "tomorrow",
+          "period": "evening",
+          "count": 4
+        }
+      ]
+    },
+    "symptomRouter": [
+      {
+        "symptom": "Tooth pain",
+        "department": "Endodontics",
+        "urgency": "high",
+        "advice": "Painkillers only buy time. An X-ray today tells us whether the nerve is infected."
+      },
+      {
+        "symptom": "Swollen face or jaw",
+        "department": "Oral Surgery",
+        "urgency": "high",
+        "advice": "Swelling means the infection has spread. Call the clinic before you travel."
+      },
+      {
+        "symptom": "Knocked-out tooth",
+        "department": "Oral Surgery",
+        "urgency": "high",
+        "advice": "Keep the tooth in milk and reach us within 30 minutes — it can often be re-implanted."
+      },
+      {
+        "symptom": "Mouth ulcer not healing",
+        "department": "Oral Medicine",
+        "urgency": "high",
+        "advice": "An ulcer older than two weeks needs to be screened, not ignored."
+      },
+      {
+        "symptom": "Bleeding gums",
+        "department": "Periodontics",
+        "urgency": "medium",
+        "advice": "Usually gum inflammation. A scaling appointment this week settles most cases."
+      },
+      {
+        "symptom": "Broken or chipped tooth",
+        "department": "Restorative Dentistry",
+        "urgency": "medium",
+        "advice": "Avoid chewing on that side. Bonding or a crown restores it in one or two sittings."
+      },
+      {
+        "symptom": "Missing tooth",
+        "department": "Implantology",
+        "urgency": "medium",
+        "advice": "The neighbouring teeth drift within months — an implant consult early keeps options open."
+      },
+      {
+        "symptom": "Jaw clicking or TMJ pain",
+        "department": "Oral Medicine",
+        "urgency": "medium",
+        "advice": "Soft diet and a bite assessment. A night guard fixes most grinding-related pain."
+      },
+      {
+        "symptom": "Sensitivity to cold or sweet",
+        "department": "Restorative Dentistry",
+        "urgency": "low",
+        "advice": "Often an early cavity or exposed root. A filling or desensitising course is enough."
+      },
+      {
+        "symptom": "Bad breath",
+        "department": "Periodontics",
+        "urgency": "low",
+        "advice": "Nine out of ten cases clear up after a professional cleaning."
+      },
+      {
+        "symptom": "Crooked or crowded teeth",
+        "department": "Orthodontics",
+        "urgency": "low",
+        "advice": "Braces or clear aligners — we will show you a simulation before you commit."
+      },
+      {
+        "symptom": "Stained or yellow teeth",
+        "department": "Cosmetic Dentistry",
+        "urgency": "low",
+        "advice": "A polishing session first; whitening only if the stain is intrinsic."
+      }
+    ],
+    "treatments": [
+      {
+        "name": "Dental Implant",
+        "min": 18000,
+        "max": 35000,
+        "sessions": "2-3",
+        "duration": "60-90 min",
+        "unit": "per tooth"
+      },
+      {
+        "name": "Painless Root Canal",
+        "min": 4500,
+        "max": 9000,
+        "sessions": "1-2",
+        "duration": "45-60 min",
+        "unit": "per tooth"
+      },
+      {
+        "name": "Dental Crown",
+        "min": 3500,
+        "max": 15000,
+        "sessions": "2",
+        "duration": "45 min",
+        "unit": "per tooth"
+      },
+      {
+        "name": "Teeth Whitening",
+        "min": 6000,
+        "max": 12000,
+        "sessions": "1",
+        "duration": "60 min",
+        "unit": "full mouth"
+      },
+      {
+        "name": "Smile Makeover (Veneers)",
+        "min": 45000,
+        "max": 120000,
+        "sessions": "3-4",
+        "duration": "90 min",
+        "unit": "per arch"
+      },
+      {
+        "name": "Metal Braces",
+        "min": 35000,
+        "max": 55000,
+        "sessions": "18-24 visits",
+        "duration": "30 min",
+        "unit": "full treatment"
+      },
+      {
+        "name": "Clear Aligners",
+        "min": 85000,
+        "max": 180000,
+        "sessions": "12-18 visits",
+        "duration": "30 min",
+        "unit": "full treatment"
+      },
+      {
+        "name": "Full Mouth Rehabilitation",
+        "min": 180000,
+        "max": 450000,
+        "sessions": "6-10",
+        "duration": "120 min",
+        "unit": "full mouth"
+      },
+      {
+        "name": "Wisdom Tooth Removal",
+        "min": 3000,
+        "max": 8000,
+        "sessions": "1",
+        "duration": "30-45 min",
+        "unit": "per tooth"
+      },
+      {
+        "name": "Scaling & Polishing",
+        "min": 1200,
+        "max": 2500,
+        "sessions": "1",
+        "duration": "30 min",
+        "unit": "full mouth"
+      },
+      {
+        "name": "Complete Denture",
+        "min": 18000,
+        "max": 40000,
+        "sessions": "3-4",
+        "duration": "60 min",
+        "unit": "per arch"
+      },
+      {
+        "name": "Cavity Filling",
+        "min": 800,
+        "max": 2500,
+        "sessions": "1",
+        "duration": "20-30 min",
+        "unit": "per tooth"
+      }
+    ],
+    "beforeAfter": [
+      {
+        "before": "/images/roles/doctor/image-1.jpg",
+        "after": "/images/roles/doctor/image-2.jpg",
+        "label": "Smile Makeover · 8 veneers · 3 weeks"
+      },
+      {
+        "before": "/images/roles/doctor/image-3.jpg",
+        "after": "/images/roles/doctor/image-4.jpg",
+        "label": "Full-mouth Implants · 6 months"
+      },
+      {
+        "before": "/images/roles/doctor/image-5.jpg",
+        "after": "/images/roles/doctor/image-6.jpg",
+        "label": "Teeth Whitening · single sitting"
+      },
+      {
+        "before": "/images/roles/doctor/image-7.jpg",
+        "after": "/images/roles/doctor/image-8.jpg",
+        "label": "Clear Aligners · 14 months"
+      },
+      {
+        "before": "/images/roles/doctor/image-9.jpg",
+        "after": "/images/roles/doctor/image-10.jpg",
+        "label": "Chipped Front Tooth · bonding · 1 visit"
+      },
+      {
+        "before": "/images/roles/doctor/image-11.jpg",
+        "after": "/images/roles/doctor/image-12.jpg",
+        "label": "Gum Contouring + Crowns · 4 weeks"
+      }
+    ],
+    "insurancePanels": [
+      "Star Health",
+      "HDFC Ergo",
+      "ICICI Lombard",
+      "Niva Bupa",
+      "Care Health",
+      "Bajaj Allianz",
+      "Tata AIG",
+      "CGHS"
+    ],
+    "emergency": {
+      "enabled": true,
+      "number": "+919876543210"
+    },
+    "teleconsult": {
+      "enabled": true,
+      "fee": 300,
+      "platform": "Google Meet"
+    },
+    "emiTenures": [
+      3,
+      6,
+      9
+    ],
+    "credentials": [
+      {
+        "year": 2008,
+        "title": "BDS — Bachelor of Dental Surgery",
+        "institution": "Government Dental College, Mumbai",
+        "kind": "education"
+      },
+      {
+        "year": 2011,
+        "title": "MDS — Prosthodontics & Implantology",
+        "institution": "Government Dental College, Mumbai",
+        "kind": "education"
+      },
+      {
+        "year": 2011,
+        "title": "Registered with Maharashtra State Dental Council",
+        "institution": "Reg. No. MDC/2011/48291",
+        "kind": "registration"
+      },
+      {
+        "year": 2014,
+        "title": "Fellowship in Oral Implantology",
+        "institution": "International Congress of Oral Implantologists",
+        "kind": "fellowship"
+      },
+      {
+        "year": 2018,
+        "title": "Certified Smile Design Practitioner",
+        "institution": "Digital Smile Design",
+        "kind": "fellowship"
+      },
+      {
+        "year": 2023,
+        "title": "Best Cosmetic Dentist, Pune",
+        "institution": "City Healthcare Awards",
+        "kind": "award"
+      }
+    ]
+  }
+}

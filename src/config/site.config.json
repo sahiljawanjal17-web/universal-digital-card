@@ -1,0 +1,25 @@
+{
+  "$schema": "./schema/site.schema.json",
+  "role": "doctor",
+  "locale": "en-IN",
+  "secondaryLocale": "hi-IN",
+  "theme": {
+    "mode": "system",
+    "allowToggle": true,
+    "override": null
+  },
+  "flags": {
+    "pwa": true,
+    "installPrompt": true,
+    "analytics": true,
+    "i18nToggle": true,
+    "exitIntentLead": true,
+    "qrShare": true,
+    "smoothScroll": true,
+    "confettiOnLead": true,
+    "devRoleSwitcher": true
+  },
+  "debug": {
+    "showSectionOutlines": false
+  }
+}

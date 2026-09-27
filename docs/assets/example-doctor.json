@@ -1,0 +1,170 @@
+{
+  "_comment": "REFERENCE SAMPLE ONLY — PART-11 me ye src/data/roles/doctor.json banega. Abhi yahan sirf shape dikhane ke liye hai.",
+
+  "profile": {
+    "name": "Dr. Ananya Sharma",
+    "designation": "MDS — Cosmetic & Implant Dentist",
+    "tagline": "15,000+ smiles designed in Pune since 2011",
+    "shortBio": "Pune ki leading cosmetic dentist, specialising in single-day implants and smile makeovers.",
+    "longBio": "Dr. Ananya Sharma ne 2009 me BDS aur 2011 me MDS (Prosthodontics) complete kiya. Pichhle 14 saal me unhone 15,000+ patients treat kiye hain, jinme 2,400+ dental implants shaamil hain...",
+    "experienceYears": 14,
+    "languages": ["English", "Hindi", "Marathi"],
+    "avatar": "https://images.unsplash.com/photo-REPLACE?w=800&q=80",
+    "coverImage": "https://images.unsplash.com/photo-REPLACE?w=1920&q=80",
+    "coverVideo": "/videos/clinic-loop.mp4",
+    "logo": "/images/roles/doctor/logo.svg"
+  },
+
+  "contact": {
+    "whatsapp": "+919876543210",
+    "phone": "+919876543210",
+    "altPhone": "+912041234567",
+    "email": "hello@smilestudio.in",
+    "website": "https://smilestudio.in",
+    "address": {
+      "line1": "Smile Studio Dental Care",
+      "line2": "2nd Floor, Kumar Prestige, FC Road",
+      "city": "Pune",
+      "state": "Maharashtra",
+      "pincode": "411005",
+      "country": "India",
+      "lat": 18.5204,
+      "lng": 73.8567,
+      "googleMapsUrl": "https://maps.google.com/?q=18.5204,73.8567"
+    },
+    "hours": [
+      { "day": "mon", "open": "10:00", "close": "20:00", "breakStart": "14:00", "breakEnd": "16:00" },
+      { "day": "tue", "open": "10:00", "close": "20:00", "breakStart": "14:00", "breakEnd": "16:00" },
+      { "day": "wed", "open": "10:00", "close": "20:00", "breakStart": "14:00", "breakEnd": "16:00" },
+      { "day": "thu", "open": "10:00", "close": "20:00", "breakStart": "14:00", "breakEnd": "16:00" },
+      { "day": "fri", "open": "10:00", "close": "20:00", "breakStart": "14:00", "breakEnd": "16:00" },
+      { "day": "sat", "open": "10:00", "close": "18:00", "breakStart": null, "breakEnd": null },
+      { "day": "sun", "open": null, "close": null, "breakStart": null, "breakEnd": null }
+    ],
+    "socials": {
+      "instagram": "https://instagram.com/smilestudio.pune",
+      "facebook": "https://facebook.com/smilestudiopune",
+      "youtube": "",
+      "linkedin": "",
+      "googleBusiness": "https://g.page/smilestudiopune"
+    }
+  },
+
+  "trust": {
+    "badges": [
+      { "icon": "shield-check", "label": "MDS Certified", "sub": "Maharashtra Dental Council" },
+      { "icon": "star", "label": "4.9 / 5", "sub": "482 Google Reviews" },
+      { "icon": "award", "label": "Top Dentist 2024", "sub": "Pune Health Awards" },
+      { "icon": "credit-card", "label": "No-Cost EMI", "sub": "Up to 9 months" }
+    ],
+    "stats": [
+      { "value": 15000, "suffix": "+", "label": "Happy Patients" },
+      { "value": 2400, "suffix": "+", "label": "Implants Placed" },
+      { "value": 14, "suffix": " yrs", "label": "Experience" },
+      { "value": 4.9, "suffix": "/5", "label": "Google Rating" }
+    ],
+    "registrationId": "MDC/2011/48291",
+    "associations": ["Indian Dental Association", "AO Implant Academy", "IPS India"]
+  },
+
+  "services": [
+    {
+      "id": "implants",
+      "title": "Dental Implants",
+      "description": "Single-day basal implants with a 10-year warranty.",
+      "icon": "tooth",
+      "image": "https://images.unsplash.com/photo-REPLACE?w=800&q=80",
+      "priceFrom": 18000,
+      "priceUnit": "per tooth",
+      "duration": "60–90 min",
+      "highlights": ["Painless procedure", "Same-day crown", "No-cost EMI"],
+      "ctaIntent": "appointment_book"
+    },
+    {
+      "id": "smile-makeover",
+      "title": "Smile Makeover",
+      "description": "Veneers, whitening and contouring — designed digitally before we start.",
+      "icon": "sparkles",
+      "image": "https://images.unsplash.com/photo-REPLACE?w=800&q=80",
+      "priceFrom": 45000,
+      "priceUnit": "full set",
+      "duration": "2–3 sittings",
+      "highlights": ["Digital smile design", "Preview before treatment", "Natural finish"],
+      "ctaIntent": "appointment_book"
+    }
+  ],
+
+  "gallery": [
+    { "type": "image", "src": "https://images.unsplash.com/photo-REPLACE?w=1600", "alt": "Smile Studio reception", "width": 1600, "height": 1067, "tags": ["clinic"] },
+    { "type": "video", "src": "/videos/clinic-tour.mp4", "poster": "https://images.unsplash.com/photo-REPLACE?w=1600", "alt": "Clinic tour" }
+  ],
+
+  "testimonials": [
+    {
+      "name": "Rohit Deshmukh",
+      "role": "Patient · Kothrud",
+      "avatar": "https://i.pravatar.cc/150?img=12",
+      "rating": 5,
+      "text": "Do saal se ek molar me pain tha. Dr. Ananya ne root canal single sitting me kiya, zero pain. Staff ne insurance paperwork bhi handle kiya.",
+      "date": "2025-11-14",
+      "source": "google"
+    }
+  ],
+
+  "faq": [
+    { "q": "Do you accept cashless insurance?", "a": "Haan — Star Health, HDFC Ergo, CGHS aur 5 aur panels ke saath empanelled hain." },
+    { "q": "Is the implant procedure painful?", "a": "Local anaesthesia ke saath procedure painless hota hai. 90% patients agle din normal routine resume kar lete hain." }
+  ],
+
+  "cta": {
+    "primary": { "label": "Book My Slot", "intent": "appointment_book" },
+    "secondary": { "label": "Save My Contact", "intent": "vcard_download" }
+  },
+
+  "leadForm": {
+    "title": "Request a callback",
+    "subtitle": "We reply on WhatsApp within 10 minutes.",
+    "fields": ["name", "phone", "concern", "preferredTime"],
+    "intent": "callback_request",
+    "consentText": "I agree to be contacted on WhatsApp."
+  },
+
+  "leadMagnet": {
+    "title": "Free Dental Health Checklist",
+    "file": "/brochures/dental-checklist.pdf",
+    "intent": "brochure_request"
+  },
+
+  "seo": {
+    "title": "Dr. Ananya Sharma — Cosmetic & Implant Dentist, Pune",
+    "description": "MDS cosmetic dentist in Pune. 2,400+ implants, 15,000+ patients. Same-day implants, smile makeovers, no-cost EMI. Book on WhatsApp.",
+    "keywords": ["dentist in pune", "dental implants pune", "smile makeover pune", "cosmetic dentist fc road"],
+    "ogImage": "auto"
+  },
+
+  "module": {
+    "slots": {
+      "days": ["today", "tomorrow"],
+      "periods": [
+        { "key": "morning", "label": "Morning", "range": "10:00 AM – 1:00 PM", "slotsLeft": 3 },
+        { "key": "evening", "label": "Evening", "range": "4:00 PM – 8:00 PM", "slotsLeft": 5 }
+      ],
+      "unavailable": [{ "day": "tomorrow", "period": "morning" }]
+    },
+    "symptomRouter": [
+      { "symptom": "Tooth pain", "department": "Endodontics", "urgency": "high", "suggested": "Root Canal Treatment" },
+      { "symptom": "Bleeding gums", "department": "Periodontics", "urgency": "medium", "suggested": "Scaling & Root Planing" },
+      { "symptom": "Missing tooth", "department": "Prosthodontics", "urgency": "low", "suggested": "Dental Implant" }
+    ],
+    "treatments": [
+      { "name": "Root Canal", "min": 4500, "max": 9000, "sessions": "1–2", "emiFrom": 750 },
+      { "name": "Dental Implant", "min": 18000, "max": 35000, "sessions": "2–3", "emiFrom": 2000 }
+    ],
+    "beforeAfter": [
+      { "before": "https://images.unsplash.com/photo-REPLACE?w=800", "after": "https://images.unsplash.com/photo-REPLACE?w=800", "label": "Smile Makeover", "duration": "3 weeks" }
+    ],
+    "insurancePanels": ["Star Health", "HDFC Ergo", "CGHS", "Niva Bupa", "ICICI Lombard"],
+    "emergency": { "enabled": true, "number": "+919876543210" },
+    "teleconsult": { "enabled": true, "fee": 300, "platform": "Google Meet" }
+  }
+}

@@ -1,0 +1,401 @@
+{
+  "profile": {
+    "name": "Priya Verma",
+    "designation": "Certified Insurance Advisor",
+    "tagline": "Securing families since 2012 | Term & Health Expert",
+    "shortBio": "I simplify complex insurance jargon and help you pick plans that actually pay out during claims.",
+    "longBio": "Hi, I am Priya. With over 12 years in the insurance sector, I've noticed people often buy wrong policies due to mis-selling. My mission is proper financial planning. Maine 2,000+ families ka portfolio protect kiya hai. Claim settlement time pe main aapke saath khadi rahungi, yeh mera promise hai.",
+    "experienceYears": 9,
+    "languages": [
+      "English",
+      "Hindi"
+    ],
+    "avatar": "https://i.pravatar.cc/150?u=priya",
+    "coverImage": "/images/roles/insurance/image-1.jpg",
+    "coverVideo": null,
+    "logo": "/images/roles/insurance/logo.svg",
+    "bio": "Hello! I am dedicated to providing the best service in my field. With years of experience and a passion for excellence, I strive to meet and exceed expectations."
+  },
+  "contact": {
+    "whatsapp": "+919876543210",
+    "phone": "+919876543210",
+    "altPhone": "+919876543210",
+    "email": "hello@example.in",
+    "website": "https://example.in",
+    "address": {
+      "line1": "SecureLife Advisory",
+      "line2": "JM Road",
+      "city": "Pune",
+      "state": "Maharashtra",
+      "pincode": "411005",
+      "country": "India",
+      "lat": 18.5204,
+      "lng": 73.8567,
+      "googleMapsUrl": "https://maps.google.com/?q=18.5204,73.8567",
+      "plusCode": ""
+    },
+    "hours": [
+      {
+        "day": "mon",
+        "open": "10:00",
+        "close": "19:00",
+        "breakStart": null,
+        "breakEnd": null
+      },
+      {
+        "day": "tue",
+        "open": "10:00",
+        "close": "19:00",
+        "breakStart": null,
+        "breakEnd": null
+      },
+      {
+        "day": "wed",
+        "open": "10:00",
+        "close": "19:00",
+        "breakStart": null,
+        "breakEnd": null
+      },
+      {
+        "day": "thu",
+        "open": "10:00",
+        "close": "19:00",
+        "breakStart": null,
+        "breakEnd": null
+      },
+      {
+        "day": "fri",
+        "open": "10:00",
+        "close": "19:00",
+        "breakStart": null,
+        "breakEnd": null
+      },
+      {
+        "day": "sat",
+        "open": "10:00",
+        "close": "17:00",
+        "breakStart": null,
+        "breakEnd": null
+      },
+      {
+        "day": "sun",
+        "open": null,
+        "close": null,
+        "breakStart": null,
+        "breakEnd": null
+      }
+    ],
+    "socials": {
+      "instagram": "",
+      "facebook": "",
+      "linkedin": "",
+      "youtube": "",
+      "x": "",
+      "justdial": "",
+      "googleBusiness": ""
+    }
+  },
+  "trust": {
+    "badges": [
+      {
+        "icon": "shield-check",
+        "label": "IRDAI Certified",
+        "sub": "License No: AGT/14892"
+      },
+      {
+        "icon": "star",
+        "label": "5.0 / 5",
+        "sub": "180+ Claim Settlements"
+      }
+    ],
+    "stats": [
+      {
+        "value": 1800,
+        "suffix": "+",
+        "label": "Families Covered"
+      },
+      {
+        "value": 9,
+        "suffix": " yrs",
+        "label": "Experience"
+      }
+    ],
+    "registrationId": "IRDAI/AGT/2014/0092831",
+    "associations": []
+  },
+  "services": [
+    {
+      "id": "term",
+      "title": "Term Life Insurance",
+      "description": "High cover pure protection plans for your family's future.",
+      "icon": "shield",
+      "image": "/images/roles/insurance/image-2.jpg",
+      "priceFrom": 500,
+      "priceUnit": "/month",
+      "duration": "",
+      "highlights": [
+        "1 Crore cover",
+        "Tax benefits"
+      ],
+      "ctaIntent": "callback_request"
+    },
+    {
+      "id": "health",
+      "title": "Family Health Insurance",
+      "description": "Comprehensive medical cover against rising hospital bills.",
+      "icon": "heart",
+      "image": "/images/roles/insurance/image-3.jpg",
+      "priceFrom": 800,
+      "priceUnit": "/month",
+      "duration": "",
+      "highlights": [
+        "Cashless network",
+        "No room rent cap"
+      ],
+      "ctaIntent": "callback_request"
+    }
+  ],
+  "gallery": [
+    {
+      "type": "image",
+      "src": "/images/roles/insurance/image-4.jpg",
+      "alt": "Client Meeting",
+      "width": 1600,
+      "height": 1067,
+      "tags": [
+        "advisory"
+      ]
+    },
+    {
+      "type": "image",
+      "src": "/images/roles/insurance/image-5.jpg",
+      "alt": "Financial Planning",
+      "width": 1600,
+      "height": 1067,
+      "tags": [
+        "planning"
+      ]
+    },
+    {
+      "type": "image",
+      "src": "/images/roles/insurance/image-6.jpg",
+      "alt": "Family Protection",
+      "width": 1600,
+      "height": 1067,
+      "tags": [
+        "family"
+      ]
+    },
+    {
+      "type": "image",
+      "src": "/images/roles/insurance/image-7.jpg",
+      "alt": "Policy Documents",
+      "width": 1600,
+      "height": 1067,
+      "tags": [
+        "documents"
+      ]
+    },
+    {
+      "type": "image",
+      "src": "/images/roles/insurance/image-8.jpg",
+      "alt": "Happy Client",
+      "width": 1600,
+      "height": 1067,
+      "tags": [
+        "clients"
+      ]
+    },
+    {
+      "type": "image",
+      "src": "/images/roles/insurance/image-9.jpg",
+      "alt": "Team Discussion",
+      "width": 1600,
+      "height": 1067,
+      "tags": [
+        "team"
+      ]
+    },
+    {
+      "type": "image",
+      "src": "/images/roles/insurance/image-10.jpg",
+      "alt": "Digital Portfolio",
+      "width": 1600,
+      "height": 1067,
+      "tags": [
+        "digital"
+      ]
+    },
+    {
+      "type": "video",
+      "src": "https://www.w3schools.com/html/mov_bbb.mp4",
+      "poster": "https://img.youtube.com/vi/aqz-KE-bpKQ/maxresdefault.jpg",
+      "alt": "Insurance Concept Video",
+      "width": 1280,
+      "height": 720,
+      "tags": [
+        "explainer"
+      ]
+    }
+  ],
+  "testimonials": [
+    {
+      "name": "Suresh Pillai",
+      "role": "Manager · Mumbai",
+      "avatar": "https://i.pravatar.cc/150?u=suresh",
+      "rating": 5,
+      "text": "When my father was hospitalized, Priya ensured the cashless claim was approved within 2 hours. Aise advisors bahut kam milte hain.",
+      "date": "2025-10-12",
+      "source": "google"
+    },
+    {
+      "name": "Anil Rathi",
+      "role": "Business Owner · Pune",
+      "avatar": "https://i.pravatar.cc/150?u=anil",
+      "rating": 5,
+      "text": "Unbiased advice. She told me honestly why a certain policy wasn't right for me instead of just pushing for a sale.",
+      "date": "2026-01-05",
+      "source": "google"
+    },
+    {
+      "name": "Megha Gupta",
+      "role": "Teacher · Thane",
+      "avatar": "https://i.pravatar.cc/150?u=megha",
+      "rating": 5,
+      "text": "Term insurance lena kaafi confusing lag raha tha. Priya madam ne itne simple tareeke se samjhaya, I felt very confident deciding.",
+      "date": "2025-11-20",
+      "source": "google"
+    },
+    {
+      "name": "Rajat Desai",
+      "role": "Software Engineer",
+      "avatar": "https://i.pravatar.cc/150?u=rajat",
+      "rating": 4,
+      "text": "Prompt responses on WhatsApp. Better than directly dealing with customer care.",
+      "date": "2025-12-15",
+      "source": "justdial"
+    },
+    {
+      "name": "Kavita Sharma",
+      "role": "Homemaker",
+      "avatar": "https://i.pravatar.cc/150?u=kavita",
+      "rating": 5,
+      "text": "Mujhe husband ke lie term plan lena tha. Inhone HDFC Life ka best option bataya aur medicals ghar pe hi arrange karwaye.",
+      "date": "2026-02-14",
+      "source": "google"
+    },
+    {
+      "name": "Vikas Kumar",
+      "role": "Consultant",
+      "avatar": "https://i.pravatar.cc/150?u=vikas",
+      "rating": 5,
+      "text": "Highly professional and knowledgeable. Claim ke time tension lene ki zaroorat nahi padti inke hote hue.",
+      "date": "2025-08-30",
+      "source": "google"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Term insurance kitne ka cover lena chahiye?",
+      "a": "Ek thumb rule hai ki apki current annual income ka 15-20 times cover hona chahiye. For example, if earning ₹10 Lakh/year, ₹1.5 Cr se ₹2 Cr cover is ideal."
+    },
+    {
+      "q": "Meri company ka health insurance hai, do I need personal cover?",
+      "a": "Yes. Corporate cover job chhodte hi khatam ho jata hai. Old age me naya plan milna mushkil aur expensive hota hai. Personal base plan zaroori hai."
+    },
+    {
+      "q": "Claim reject hone ke chances kitne hain?",
+      "a": "Agar aap policy lete waqt apni medical history honestly disclose karte hain, toh claim reject nahi hota. Hum proposal form fill karne me apki madad karte hain."
+    },
+    {
+      "q": "Kya aap claim settlement me help karte ho?",
+      "a": "Absolutely! Humara USP hi claim support hai. From arranging documents to coordinating with TPAs, hum poora process handhold karte hain."
+    }
+  ],
+  "cta": {
+    "primary": {
+      "label": "Get a Quote",
+      "intent": "quote_request"
+    },
+    "secondary": {
+      "label": "Save My Contact",
+      "intent": "vcard_download"
+    }
+  },
+  "leadForm": {
+    "title": "Request a callback",
+    "subtitle": "We reply on WhatsApp within 10 minutes.",
+    "fields": [
+      "name",
+      "phone",
+      "message"
+    ],
+    "intent": "callback_request",
+    "consentText": "I agree to be contacted on WhatsApp."
+  },
+  "seo": {
+    "title": "Neha Agarwal - IRDAI Certified Insurance Advisor, Pune",
+    "description": "Placeholder SEO description for the insurance role.",
+    "keywords": [
+      "term insurance pune",
+      "health insurance advisor"
+    ],
+    "ogImage": "auto"
+  },
+  "module": {
+    "products": [
+      "term",
+      "health",
+      "motor",
+      "child",
+      "retirement"
+    ],
+    "estimator": {
+      "ageRange": [
+        18,
+        65
+      ],
+      "coverOptions": [
+        2500000,
+        5000000,
+        10000000,
+        25000000,
+        50000000
+      ],
+      "tenureRange": [
+        5,
+        40
+      ],
+      "rateTable": {
+        "term": {
+          "18-30": 0.00042,
+          "31-40": 0.00068,
+          "41-50": 0.00125,
+          "51-65": 0.0026
+        }
+      },
+      "loadings": {
+        "smoker": 1.6,
+        "female": 0.9
+      }
+    },
+    "plans": [
+      {
+        "id": "t1",
+        "insurer": "Placeholder Insurer",
+        "name": "Placeholder Term Plan",
+        "claimRatio": 99.4,
+        "usp": [
+          "Return of premium"
+        ],
+        "logo": "/images/roles/insurance/image-11.jpg"
+      }
+    ],
+    "taxSaving": {
+      "s80c": 150000,
+      "s80d": 25000,
+      "s80dSenior": 50000
+    },
+    "irdaiLicense": "IRDAI/AGT/2014/0092831"
+  }
+}

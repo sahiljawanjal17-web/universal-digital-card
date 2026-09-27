@@ -1,0 +1,183 @@
+/**
+ * LEVEL 3 — the content block every role's data JSON shares.
+ * Shapes come literally from docs/03-CONFIG-SCHEMA.md.
+ * Types are inferred from these schemas — never hand-write a parallel interface.
+ */
+import { z } from 'zod';
+import { INTENT_KEYS } from '@/lib/constants/intents';
+
+/** E.164, the only phone format `core/whatsapp` accepts. */
+export const PhoneSchema = z
+  .string()
+  .regex(/^\+[1-9]\d{7,14}$/, 'Phone must be E.164, e.g. +919876543210');
+
+/** "HH:MM" on a 24h clock. */
+export const TimeSchema = z.string().regex(/^([01]\d|2[0-3]):[0-5]\d$/, 'Expected "HH:MM"');
+
+/** Absolute URL or site-relative path — data may point at a CDN or /public. */
+export const MediaRefSchema = z
+  .string()
+  .min(1)
+  .refine((v) => v.startsWith('/') || /^https?:\/\//.test(v), 'Expected an https URL or a /path');
+
+export const IntentSchema = z.enum(INTENT_KEYS);
+
+export const ProfileSchema = z.object({
+  name: z.string().min(1),
+  designation: z.string().min(1),
+  tagline: z.string().min(1),
+  shortBio: z.string().min(1),
+  longBio: z.string().min(1),
+  experienceYears: z.number().int().nonnegative(),
+  languages: z.array(z.string().min(1)).min(1),
+  avatar: MediaRefSchema,
+  coverImage: MediaRefSchema,
+  coverVideo: MediaRefSchema.nullable().default(null),
+  logo: MediaRefSchema.nullable().default(null),
+});
+
+export const AddressSchema = z.object({
+  line1: z.string().min(1),
+  line2: z.string().default(''),
+  city: z.string().min(1),
+  state: z.string().min(1),
+  pincode: z.string().regex(/^\d{6}$/, 'Indian PIN code must be 6 digits'),
+  country: z.string().default('India'),
+  lat: z.number().min(-90).max(90),
+  lng: z.number().min(-180).max(180),
+  googleMapsUrl: z.url(),
+  plusCode: z.string().default(''),
+});
+
+export const BusinessHourSchema = z.object({
+  day: z.string().min(1),
+  open: TimeSchema.nullable(),
+  close: TimeSchema.nullable(),
+  breakStart: TimeSchema.nullable().default(null),
+  breakEnd: TimeSchema.nullable().default(null),
+});
+
+export const SocialsSchema = z.object({
+  instagram: z.string().default(''),
+  facebook: z.string().default(''),
+  linkedin: z.string().default(''),
+  youtube: z.string().default(''),
+  x: z.string().default(''),
+  justdial: z.string().default(''),
+  googleBusiness: z.string().default(''),
+});
+
+export const ContactSchema = z.object({
+  whatsapp: PhoneSchema,
+  phone: PhoneSchema,
+  altPhone: PhoneSchema.nullable().default(null),
+  email: z.email(),
+  website: z.url().nullable().default(null),
+  address: AddressSchema,
+  hours: z.array(BusinessHourSchema).min(1),
+  socials: SocialsSchema,
+});
+
+export const TrustSchema = z.object({
+  badges: z
+    .array(
+      z.object({
+        icon: z.string().min(1),
+        label: z.string().min(1),
+        sub: z.string().default(''),
+      }),
+    )
+    .default([]),
+  stats: z
+    .array(
+      z.object({
+        value: z.number(),
+        suffix: z.string().default(''),
+        label: z.string().min(1),
+      }),
+    )
+    .default([]),
+  registrationId: z.string().default(''),
+  associations: z.array(z.string().min(1)).default([]),
+});
+
+export const ServiceSchema = z.object({
+  id: z.string().min(1),
+  title: z.string().min(1),
+  description: z.string().min(1),
+  icon: z.string().min(1),
+  image: MediaRefSchema.nullable().default(null),
+  priceFrom: z.number().nonnegative().nullable().default(null),
+  priceUnit: z.string().default(''),
+  duration: z.string().default(''),
+  highlights: z.array(z.string().min(1)).default([]),
+  ctaIntent: IntentSchema,
+});
+
+export const GalleryItemSchema = z.discriminatedUnion('type', [
+  z.object({
+    type: z.literal('image'),
+    src: MediaRefSchema,
+    alt: z.string().min(1),
+    width: z.number().int().positive(),
+    height: z.number().int().positive(),
+    tags: z.array(z.string().min(1)).default([]),
+  }),
+  z.object({
+    type: z.literal('video'),
+    src: MediaRefSchema,
+    poster: MediaRefSchema,
+    alt: z.string().min(1),
+    tags: z.array(z.string().min(1)).default([]),
+  }),
+]);
+
+export const TestimonialSchema = z.object({
+  name: z.string().min(1),
+  role: z.string().default(''),
+  avatar: MediaRefSchema.nullable().default(null),
+  rating: z.number().min(1).max(5),
+  text: z.string().min(1),
+  date: z.iso.date(),
+  source: z.enum(['google', 'facebook', 'justdial', 'direct']).default('direct'),
+});
+
+export const FaqSchema = z.object({ q: z.string().min(1), a: z.string().min(1) });
+
+export const CtaActionSchema = z.object({ label: z.string().min(1), intent: IntentSchema });
+
+export const LeadFormSchema = z.object({
+  title: z.string().min(1),
+  subtitle: z.string().default(''),
+  fields: z.array(z.string().min(1)).min(1),
+  intent: IntentSchema,
+  consentText: z.string().min(1),
+});
+
+export const SeoSchema = z.object({
+  title: z.string().min(1),
+  description: z.string().min(1),
+  keywords: z.array(z.string().min(1)).default([]),
+  /** "auto" = generated by the /api/og route (PART-12). */
+  ogImage: z.union([z.literal('auto'), MediaRefSchema]).default('auto'),
+});
+
+/** Every role's data JSON = this, extended with its own `module` block. */
+export const CommonDataSchema = z.object({
+  profile: ProfileSchema,
+  contact: ContactSchema,
+  trust: TrustSchema,
+  services: z.array(ServiceSchema).default([]),
+  gallery: z.array(GalleryItemSchema).default([]),
+  testimonials: z.array(TestimonialSchema).default([]),
+  faq: z.array(FaqSchema).default([]),
+  cta: z.object({ primary: CtaActionSchema, secondary: CtaActionSchema }),
+  leadForm: LeadFormSchema,
+  seo: SeoSchema,
+});
+
+export type CommonData = z.infer<typeof CommonDataSchema>;
+export type Contact = z.infer<typeof ContactSchema>;
+export type Profile = z.infer<typeof ProfileSchema>;
+export type Service = z.infer<typeof ServiceSchema>;
+export type GalleryItem = z.infer<typeof GalleryItemSchema>;

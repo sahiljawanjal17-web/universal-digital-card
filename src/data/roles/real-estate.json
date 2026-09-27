@@ -1,0 +1,1615 @@
+{
+  "profile": {
+    "name": "Vikram Sharma",
+    "designation": "Founder, Sharma Realty & Associates",
+    "tagline": "₹40 Cr worth property closed in 2025",
+    "shortBio": "Pune's trusted real estate advisor specializing in premium residential properties.",
+    "longBio": "Welcome to Sharma Realty! Since 2013, I've been helping families and investors find their perfect properties in Pune. Mera goal sirf bechna nahi, balki right locality aur appreciation value dhoondhna hai aapke liye. Transparency and seamless paperwork are our core promises.",
+    "experienceYears": 11,
+    "languages": [
+      "English",
+      "Hindi"
+    ],
+    "avatar": "https://i.pravatar.cc/150?u=vikram",
+    "coverImage": "/images/roles/real-estate/image-1.jpg",
+    "coverVideo": null,
+    "logo": "/images/roles/real-estate/logo.svg",
+    "bio": "Hello! I am dedicated to providing the best service in my field. With years of experience and a passion for excellence, I strive to meet and exceed expectations."
+  },
+  "contact": {
+    "whatsapp": "+919876543210",
+    "phone": "+919876543210",
+    "altPhone": "+919876543210",
+    "email": "hello@example.in",
+    "website": "https://example.in",
+    "address": {
+      "line1": "Skyline Realty",
+      "line2": "Baner Road",
+      "city": "Pune",
+      "state": "Maharashtra",
+      "pincode": "411005",
+      "country": "India",
+      "lat": 18.5204,
+      "lng": 73.8567,
+      "googleMapsUrl": "https://maps.google.com/?q=18.5204,73.8567",
+      "plusCode": ""
+    },
+    "hours": [
+      {
+        "day": "mon",
+        "open": "10:00",
+        "close": "19:00",
+        "breakStart": null,
+        "breakEnd": null
+      },
+      {
+        "day": "tue",
+        "open": "10:00",
+        "close": "19:00",
+        "breakStart": null,
+        "breakEnd": null
+      },
+      {
+        "day": "wed",
+        "open": "10:00",
+        "close": "19:00",
+        "breakStart": null,
+        "breakEnd": null
+      },
+      {
+        "day": "thu",
+        "open": "10:00",
+        "close": "19:00",
+        "breakStart": null,
+        "breakEnd": null
+      },
+      {
+        "day": "fri",
+        "open": "10:00",
+        "close": "19:00",
+        "breakStart": null,
+        "breakEnd": null
+      },
+      {
+        "day": "sat",
+        "open": "10:00",
+        "close": "17:00",
+        "breakStart": null,
+        "breakEnd": null
+      },
+      {
+        "day": "sun",
+        "open": null,
+        "close": null,
+        "breakStart": null,
+        "breakEnd": null
+      }
+    ],
+    "socials": {
+      "instagram": "",
+      "facebook": "",
+      "linkedin": "",
+      "youtube": "",
+      "x": "",
+      "justdial": "",
+      "googleBusiness": ""
+    }
+  },
+  "trust": {
+    "badges": [
+      {
+        "icon": "shield-check",
+        "label": "RERA Registered",
+        "sub": "MahaRERA: A52100048291"
+      },
+      {
+        "icon": "star",
+        "label": "4.8 / 5",
+        "sub": "250+ Verified Reviews"
+      }
+    ],
+    "stats": [
+      {
+        "value": 420,
+        "suffix": "+",
+        "label": "Homes Closed"
+      },
+      {
+        "value": 11,
+        "suffix": " yrs",
+        "label": "Experience"
+      }
+    ],
+    "registrationId": "A52100048291",
+    "associations": []
+  },
+  "services": [
+    {
+      "id": "buy",
+      "title": "Buy New Properties",
+      "description": "Zero brokerage on premium new projects in Pune West.",
+      "icon": "home",
+      "image": "/images/roles/real-estate/image-2.jpg",
+      "priceFrom": 0,
+      "priceUnit": "",
+      "duration": "",
+      "highlights": [
+        "Direct builder tie-ups",
+        "Best price guarantee"
+      ],
+      "ctaIntent": "property_inquiry"
+    },
+    {
+      "id": "sell",
+      "title": "Resale & Listing",
+      "description": "Get maximum value for your property within 45 days.",
+      "icon": "key",
+      "image": "/images/roles/real-estate/image-3.jpg",
+      "priceFrom": 1,
+      "priceUnit": "% commission",
+      "duration": "",
+      "highlights": [
+        "Professional photoshoot",
+        "Verified buyers only"
+      ],
+      "ctaIntent": "property_inquiry"
+    }
+  ],
+  "gallery": [
+    {
+      "type": "image",
+      "src": "/images/roles/real-estate/image-4.jpg",
+      "alt": "Luxury Villa Exterior",
+      "width": 1600,
+      "height": 1067,
+      "tags": [
+        "exteriors"
+      ]
+    },
+    {
+      "type": "image",
+      "src": "/images/roles/real-estate/image-5.jpg",
+      "alt": "Modern Living Room",
+      "width": 1600,
+      "height": 1067,
+      "tags": [
+        "interiors"
+      ]
+    },
+    {
+      "type": "image",
+      "src": "/images/roles/real-estate/image-6.jpg",
+      "alt": "Spacious Kitchen",
+      "width": 1600,
+      "height": 1067,
+      "tags": [
+        "interiors"
+      ]
+    },
+    {
+      "type": "image",
+      "src": "/images/roles/real-estate/image-7.jpg",
+      "alt": "Master Bedroom",
+      "width": 1600,
+      "height": 1067,
+      "tags": [
+        "interiors"
+      ]
+    },
+    {
+      "type": "image",
+      "src": "/images/roles/real-estate/image-8.jpg",
+      "alt": "Balcony View",
+      "width": 1600,
+      "height": 1067,
+      "tags": [
+        "views"
+      ]
+    },
+    {
+      "type": "image",
+      "src": "/images/roles/real-estate/image-9.jpg",
+      "alt": "Apartment Lobby",
+      "width": 1600,
+      "height": 1067,
+      "tags": [
+        "amenities"
+      ]
+    },
+    {
+      "type": "image",
+      "src": "/images/roles/real-estate/image-10.jpg",
+      "alt": "Swimming Pool",
+      "width": 1600,
+      "height": 1067,
+      "tags": [
+        "amenities"
+      ]
+    },
+    {
+      "type": "video",
+      "src": "https://www.w3schools.com/html/mov_bbb.mp4",
+      "poster": "https://img.youtube.com/vi/aqz-KE-bpKQ/maxresdefault.jpg",
+      "alt": "Property Tour",
+      "width": 1280,
+      "height": 720,
+      "tags": [
+        "tour"
+      ]
+    }
+  ],
+  "testimonials": [
+    {
+      "name": "Siddharth Menon",
+      "role": "IT Professional · Hinjewadi",
+      "avatar": "https://i.pravatar.cc/150?u=sid",
+      "rating": 5,
+      "text": "Vikram found us a 3BHK in Baner within our ₹1.2 Cr budget in 3 weeks. He handled the entire loan paperwork smoothly. Ghar lena itna aasan pehle kabhi nahi laga.",
+      "date": "2025-08-22",
+      "source": "google"
+    },
+    {
+      "name": "Ramesh Gupta",
+      "role": "Businessman · Wakad",
+      "avatar": "https://i.pravatar.cc/150?u=ramesh",
+      "rating": 5,
+      "text": "Maine apna flat inke through sell kiya. Within 1 month genuine buyer mil gaya and deal closed without any hassle. Highly professional team.",
+      "date": "2025-11-05",
+      "source": "justdial"
+    },
+    {
+      "name": "Neha Singh",
+      "role": "Doctor · Kharadi",
+      "avatar": "https://i.pravatar.cc/150?u=neha",
+      "rating": 4,
+      "text": "Good inventory of premium projects. Thoda negotiation time liya but finally got a good price for a river-facing apartment.",
+      "date": "2026-01-18",
+      "source": "google"
+    },
+    {
+      "name": "Prakash Jadhav",
+      "role": "Investor · Kothrud",
+      "avatar": "https://i.pravatar.cc/150?u=prakash",
+      "rating": 5,
+      "text": "Vikram bhai ka market knowledge ek number hai. Jo plot suggest kiya tha usme 2 saal me 30% appreciation mil gaya.",
+      "date": "2025-09-10",
+      "source": "google"
+    },
+    {
+      "name": "Anjali Rao",
+      "role": "Architect · Bavdhan",
+      "avatar": "https://i.pravatar.cc/150?u=anjali",
+      "rating": 5,
+      "text": "Very transparent dealing. Koi hidden charges nahi, sab clear cut batate hain. Would recommend to anyone looking to buy in West Pune.",
+      "date": "2026-02-28",
+      "source": "facebook"
+    },
+    {
+      "name": "Karthik N",
+      "role": "Manager · Balewadi",
+      "avatar": "https://i.pravatar.cc/150?u=karthik",
+      "rating": 5,
+      "text": "Best property consultant! Unhone meri requirement samjhi aur exactly waisi hi properties dikhayi, no time wasted.",
+      "date": "2025-07-15",
+      "source": "google"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Do you charge brokerage on new projects?",
+      "a": "No, hum directly reputed builders se tied up hain, so for new project bookings (primary sales), zero brokerage is charged from the buyer."
+    },
+    {
+      "q": "What is your commission for resale flats?",
+      "a": "For resale and secondary market, standard 1% commission apply hota hai on the final deal value, payable at the time of registration."
+    },
+    {
+      "q": "Will you assist with the home loan process?",
+      "a": "Yes! Humare in-house loan experts sabhi major banks (SBI, HDFC, ICICI) ke process handle karte hain to ensure fastest processing at best rates."
+    },
+    {
+      "q": "Kya aap tenant verification bhi karte ho rentals ke liye?",
+      "a": "Bilkul. Police verification aur registered rent agreement ka poora end-to-end process hamari team manage karti hai."
+    }
+  ],
+  "cta": {
+    "primary": {
+      "label": "Book a Site Visit",
+      "intent": "site_visit_book"
+    },
+    "secondary": {
+      "label": "Save My Contact",
+      "intent": "vcard_download"
+    }
+  },
+  "leadForm": {
+    "title": "Request a callback",
+    "subtitle": "We reply on WhatsApp within 10 minutes.",
+    "fields": [
+      "name",
+      "phone",
+      "message"
+    ],
+    "intent": "callback_request",
+    "consentText": "I agree to be contacted on WhatsApp."
+  },
+  "seo": {
+    "title": "Rajat Kulkarni - RERA Certified Property Consultant, Pune",
+    "description": "Placeholder SEO description for the real-estate role.",
+    "keywords": [
+      "property in pune",
+      "3bhk baner"
+    ],
+    "ogImage": "auto"
+  },
+  "module": {
+    "properties": [
+      {
+        "id": "p-001",
+        "title": "3BHK Baner High-Rise",
+        "type": "apartment",
+        "listingFor": "sale",
+        "bhk": 3,
+        "bathrooms": 3,
+        "price": 12500000,
+        "pricePerSqft": 9804,
+        "carpetArea": 1275,
+        "superBuiltUp": 1657,
+        "furnishing": "semi",
+        "floor": 14,
+        "totalFloors": 26,
+        "facing": "east",
+        "ageYears": 0,
+        "possession": "ready",
+        "reraId": "P52100048291",
+        "locality": "Baner",
+        "city": "Pune",
+        "amenities": [
+          "gym",
+          "pool",
+          "clubhouse",
+          "power-backup",
+          "security",
+          "garden"
+        ],
+        "nearby": [
+          {
+            "type": "school",
+            "name": "Symbiosis International School",
+            "km": 1.4
+          },
+          {
+            "type": "hospital",
+            "name": "Jupiter Hospital",
+            "km": 2.1
+          },
+          {
+            "type": "metro",
+            "name": "Baner Metro Station",
+            "km": 0.8
+          }
+        ],
+        "images": [
+          "/images/roles/real-estate/image-11.jpg",
+          "/images/roles/real-estate/image-12.jpg",
+          "/images/roles/real-estate/image-13.jpg",
+          "/images/roles/real-estate/image-14.jpg"
+        ],
+        "floorPlan": "/images/roles/real-estate/image-40.jpg",
+        "tourUrl": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+        "featured": true,
+        "status": "available"
+      },
+      {
+        "id": "p-002",
+        "title": "2BHK Kharadi Greens",
+        "type": "apartment",
+        "listingFor": "sale",
+        "bhk": 2,
+        "bathrooms": 2,
+        "price": 8200000,
+        "pricePerSqft": 8723,
+        "carpetArea": 940,
+        "superBuiltUp": 1222,
+        "furnishing": "unfurnished",
+        "floor": 6,
+        "totalFloors": 18,
+        "facing": "north",
+        "ageYears": 2,
+        "possession": "ready",
+        "reraId": "P52100048292",
+        "locality": "Kharadi",
+        "city": "Pune",
+        "amenities": [
+          "gym",
+          "power-backup",
+          "security",
+          "parking"
+        ],
+        "nearby": [
+          {
+            "type": "hospital",
+            "name": "EON Medipoint Hospital",
+            "km": 1.8
+          },
+          {
+            "type": "school",
+            "name": "Vibgyor High School",
+            "km": 2.5
+          },
+          {
+            "type": "mall",
+            "name": "Phoenix Marketcity",
+            "km": 3.2
+          }
+        ],
+        "images": [
+          "/images/roles/real-estate/image-15.jpg",
+          "/images/roles/real-estate/image-16.jpg",
+          "/images/roles/real-estate/image-17.jpg",
+          "/images/roles/real-estate/image-18.jpg"
+        ],
+        "floorPlan": "/images/roles/real-estate/image-41.jpg",
+        "tourUrl": null,
+        "featured": false,
+        "status": "available"
+      },
+      {
+        "id": "p-003",
+        "title": "4BHK Villa Wakad",
+        "type": "villa",
+        "listingFor": "sale",
+        "bhk": 4,
+        "bathrooms": 4,
+        "price": 24000000,
+        "pricePerSqft": 8421,
+        "carpetArea": 2850,
+        "superBuiltUp": 3420,
+        "furnishing": "full",
+        "floor": 0,
+        "totalFloors": 3,
+        "facing": "west",
+        "ageYears": 1,
+        "possession": "ready",
+        "reraId": "P52100048293",
+        "locality": "Wakad",
+        "city": "Pune",
+        "amenities": [
+          "garden",
+          "parking",
+          "security",
+          "power-backup",
+          "gym",
+          "pool"
+        ],
+        "nearby": [
+          {
+            "type": "school",
+            "name": "Delhi Public School",
+            "km": 1.1
+          },
+          {
+            "type": "hospital",
+            "name": "Lifepoint Multispecialty Hospital",
+            "km": 2.8
+          },
+          {
+            "type": "mall",
+            "name": "Xion Mall",
+            "km": 1.9
+          }
+        ],
+        "images": [
+          "/images/roles/real-estate/image-19.jpg",
+          "/images/roles/real-estate/image-20.jpg",
+          "/images/roles/real-estate/image-21.jpg",
+          "/images/roles/real-estate/image-22.jpg"
+        ],
+        "floorPlan": "/images/roles/real-estate/image-42.jpg",
+        "tourUrl": "https://www.youtube.com/watch?v=jNQXAC9IVRw",
+        "featured": true,
+        "status": "available"
+      },
+      {
+        "id": "p-004",
+        "title": "Commercial Office Kharadi IT Hub",
+        "type": "commercial",
+        "listingFor": "sale",
+        "bhk": 0,
+        "bathrooms": 2,
+        "price": 18500000,
+        "pricePerSqft": 11563,
+        "carpetArea": 1600,
+        "superBuiltUp": 2000,
+        "furnishing": "unfurnished",
+        "floor": 3,
+        "totalFloors": 10,
+        "facing": "south",
+        "ageYears": 0,
+        "possession": "ready",
+        "reraId": "P52100048294",
+        "locality": "Kharadi",
+        "city": "Pune",
+        "amenities": [
+          "power-backup",
+          "security",
+          "parking",
+          "lift"
+        ],
+        "nearby": [
+          {
+            "type": "metro",
+            "name": "Ramwadi Metro Station",
+            "km": 1.2
+          },
+          {
+            "type": "hospital",
+            "name": "EON Medipoint Hospital",
+            "km": 2.1
+          },
+          {
+            "type": "mall",
+            "name": "Phoenix Marketcity",
+            "km": 2.5
+          }
+        ],
+        "images": [
+          "/images/roles/real-estate/image-23.jpg",
+          "/images/roles/real-estate/image-24.jpg",
+          "/images/roles/real-estate/image-25.jpg"
+        ],
+        "floorPlan": null,
+        "tourUrl": null,
+        "featured": false,
+        "status": "available"
+      },
+      {
+        "id": "p-005",
+        "title": "Residential Plot Hinjewadi Phase 3",
+        "type": "plot",
+        "listingFor": "sale",
+        "bhk": 0,
+        "bathrooms": 0,
+        "price": 5500000,
+        "pricePerSqft": 4583,
+        "carpetArea": 1200,
+        "superBuiltUp": 1200,
+        "furnishing": "unfurnished",
+        "floor": 0,
+        "totalFloors": 1,
+        "facing": "east",
+        "ageYears": 0,
+        "possession": "ready",
+        "reraId": "P52100048295",
+        "locality": "Hinjewadi",
+        "city": "Pune",
+        "amenities": [
+          "security",
+          "power-backup"
+        ],
+        "nearby": [
+          {
+            "type": "school",
+            "name": "Orchid School",
+            "km": 2.3
+          },
+          {
+            "type": "hospital",
+            "name": "Medipoint Hospital",
+            "km": 3.5
+          },
+          {
+            "type": "mall",
+            "name": "Westend Mall",
+            "km": 4.0
+          }
+        ],
+        "images": [
+          "/images/roles/real-estate/image-26.jpg",
+          "/images/roles/real-estate/image-27.jpg",
+          "/images/roles/real-estate/image-28.jpg"
+        ],
+        "floorPlan": null,
+        "tourUrl": null,
+        "featured": false,
+        "status": "available"
+      },
+      {
+        "id": "p-006",
+        "title": "1BHK Starter Home Wakad",
+        "type": "apartment",
+        "listingFor": "sale",
+        "bhk": 1,
+        "bathrooms": 1,
+        "price": 3800000,
+        "pricePerSqft": 7231,
+        "carpetArea": 526,
+        "superBuiltUp": 683,
+        "furnishing": "unfurnished",
+        "floor": 4,
+        "totalFloors": 12,
+        "facing": "north",
+        "ageYears": 4,
+        "possession": "ready",
+        "reraId": "P52100048296",
+        "locality": "Wakad",
+        "city": "Pune",
+        "amenities": [
+          "security",
+          "parking",
+          "power-backup"
+        ],
+        "nearby": [
+          {
+            "type": "school",
+            "name": "Cambridge International School",
+            "km": 1.7
+          },
+          {
+            "type": "hospital",
+            "name": "Lifepoint Hospital",
+            "km": 2.4
+          }
+        ],
+        "images": [
+          "/images/roles/real-estate/image-29.jpg",
+          "/images/roles/real-estate/image-30.jpg",
+          "/images/roles/real-estate/image-31.jpg"
+        ],
+        "floorPlan": "/images/roles/real-estate/image-43.jpg",
+        "tourUrl": null,
+        "featured": false,
+        "status": "available"
+      },
+      {
+        "id": "p-007",
+        "title": "3BHK Under-Construction Baner West",
+        "type": "apartment",
+        "listingFor": "sale",
+        "bhk": 3,
+        "bathrooms": 2,
+        "price": 10800000,
+        "pricePerSqft": 9000,
+        "carpetArea": 1200,
+        "superBuiltUp": 1560,
+        "furnishing": "unfurnished",
+        "floor": 18,
+        "totalFloors": 28,
+        "facing": "west",
+        "ageYears": 0,
+        "possession": "2026-12",
+        "reraId": "P52100048297",
+        "locality": "Baner",
+        "city": "Pune",
+        "amenities": [
+          "gym",
+          "pool",
+          "clubhouse",
+          "power-backup",
+          "garden",
+          "security"
+        ],
+        "nearby": [
+          {
+            "type": "school",
+            "name": "Abhinava Vidyalaya",
+            "km": 0.9
+          },
+          {
+            "type": "hospital",
+            "name": "Ruby Hall Clinic",
+            "km": 4.2
+          },
+          {
+            "type": "metro",
+            "name": "Baner Metro Station",
+            "km": 1.1
+          }
+        ],
+        "images": [
+          "/images/roles/real-estate/image-32.jpg",
+          "/images/roles/real-estate/image-33.jpg",
+          "/images/roles/real-estate/image-34.jpg",
+          "/images/roles/real-estate/image-35.jpg"
+        ],
+        "floorPlan": "/images/roles/real-estate/image-44.jpg",
+        "tourUrl": null,
+        "featured": true,
+        "status": "available"
+      },
+      {
+        "id": "p-008",
+        "title": "2BHK Hinjewadi Sunrise",
+        "type": "apartment",
+        "listingFor": "sale",
+        "bhk": 2,
+        "bathrooms": 2,
+        "price": 6800000,
+        "pricePerSqft": 8000,
+        "carpetArea": 850,
+        "superBuiltUp": 1105,
+        "furnishing": "semi",
+        "floor": 8,
+        "totalFloors": 20,
+        "facing": "east",
+        "ageYears": 1,
+        "possession": "ready",
+        "reraId": "P52100048298",
+        "locality": "Hinjewadi",
+        "city": "Pune",
+        "amenities": [
+          "gym",
+          "security",
+          "parking",
+          "power-backup"
+        ],
+        "nearby": [
+          {
+            "type": "school",
+            "name": "Orchid School",
+            "km": 1.8
+          },
+          {
+            "type": "hospital",
+            "name": "Medipoint Hospital",
+            "km": 2.9
+          }
+        ],
+        "images": [
+          "/images/roles/real-estate/image-36.jpg",
+          "/images/roles/real-estate/image-37.jpg",
+          "/images/roles/real-estate/image-38.jpg",
+          "/images/roles/real-estate/image-39.jpg"
+        ],
+        "floorPlan": "/images/roles/real-estate/image-45.jpg",
+        "tourUrl": null,
+        "featured": false,
+        "status": "available"
+      },
+      {
+        "id": "p-009",
+        "title": "4BHK Kharadi Premium",
+        "type": "apartment",
+        "listingFor": "sale",
+        "bhk": 4,
+        "bathrooms": 4,
+        "price": 22000000,
+        "pricePerSqft": 12222,
+        "carpetArea": 1800,
+        "superBuiltUp": 2340,
+        "furnishing": "unfurnished",
+        "floor": 22,
+        "totalFloors": 30,
+        "facing": "south",
+        "ageYears": 0,
+        "possession": "2027-06",
+        "reraId": "P52100048299",
+        "locality": "Kharadi",
+        "city": "Pune",
+        "amenities": [
+          "gym",
+          "pool",
+          "clubhouse",
+          "power-backup",
+          "security",
+          "garden",
+          "lift"
+        ],
+        "nearby": [
+          {
+            "type": "school",
+            "name": "Vibgyor High School",
+            "km": 2.0
+          },
+          {
+            "type": "hospital",
+            "name": "EON Medipoint Hospital",
+            "km": 1.5
+          },
+          {
+            "type": "mall",
+            "name": "Phoenix Marketcity",
+            "km": 2.8
+          }
+        ],
+        "images": [
+          "/images/roles/real-estate/image-46.jpg",
+          "/images/roles/real-estate/image-47.jpg",
+          "/images/roles/real-estate/image-48.jpg",
+          "/images/roles/real-estate/image-49.jpg"
+        ],
+        "floorPlan": "/images/roles/real-estate/image-50.jpg",
+        "tourUrl": null,
+        "featured": false,
+        "status": "available"
+      },
+      {
+        "id": "p-010",
+        "title": "3BHK Wakad Horizon",
+        "type": "apartment",
+        "listingFor": "sale",
+        "bhk": 3,
+        "bathrooms": 3,
+        "price": 9500000,
+        "pricePerSqft": 8636,
+        "carpetArea": 1100,
+        "superBuiltUp": 1430,
+        "furnishing": "unfurnished",
+        "floor": 2,
+        "totalFloors": 22,
+        "facing": "west",
+        "ageYears": 5,
+        "possession": "ready",
+        "reraId": "P52100048300",
+        "locality": "Wakad",
+        "city": "Pune",
+        "amenities": [
+          "gym",
+          "pool",
+          "clubhouse",
+          "power-backup"
+        ],
+        "nearby": [
+          {
+            "type": "school",
+            "name": "Delhi Public School Wakad",
+            "km": 1.2
+          },
+          {
+            "type": "hospital",
+            "name": "Lifepoint Hospital",
+            "km": 2.5
+          }
+        ],
+        "images": [
+          "/images/roles/real-estate/image-51.jpg",
+          "/images/roles/real-estate/image-52.jpg",
+          "/images/roles/real-estate/image-53.jpg",
+          "/images/roles/real-estate/image-54.jpg"
+        ],
+        "floorPlan": "/images/roles/real-estate/image-55.jpg",
+        "tourUrl": null,
+        "featured": false,
+        "status": "available"
+      },
+      {
+        "id": "p-011",
+        "title": "3BHK Villa Hinjewadi Premium",
+        "type": "villa",
+        "listingFor": "sale",
+        "bhk": 3,
+        "bathrooms": 3,
+        "price": 18000000,
+        "pricePerSqft": 9000,
+        "carpetArea": 2000,
+        "superBuiltUp": 2600,
+        "furnishing": "semi",
+        "floor": 0,
+        "totalFloors": 2,
+        "facing": "north",
+        "ageYears": 2,
+        "possession": "ready",
+        "reraId": "P52100048301",
+        "locality": "Hinjewadi",
+        "city": "Pune",
+        "amenities": [
+          "garden",
+          "parking",
+          "security",
+          "power-backup"
+        ],
+        "nearby": [
+          {
+            "type": "school",
+            "name": "Orchid International School",
+            "km": 2.1
+          },
+          {
+            "type": "hospital",
+            "name": "Sahyadri Hospital",
+            "km": 3.8
+          }
+        ],
+        "images": [
+          "/images/roles/real-estate/image-56.jpg",
+          "/images/roles/real-estate/image-57.jpg",
+          "/images/roles/real-estate/image-58.jpg",
+          "/images/roles/real-estate/image-59.jpg"
+        ],
+        "floorPlan": "/images/roles/real-estate/image-60.jpg",
+        "tourUrl": null,
+        "featured": false,
+        "status": "available"
+      },
+      {
+        "id": "p-012",
+        "title": "2BHK Baner Elanza — Rent",
+        "type": "apartment",
+        "listingFor": "rent",
+        "bhk": 2,
+        "bathrooms": 2,
+        "price": 28000,
+        "pricePerSqft": 32,
+        "carpetArea": 880,
+        "superBuiltUp": 1144,
+        "furnishing": "full",
+        "floor": 7,
+        "totalFloors": 16,
+        "facing": "east",
+        "ageYears": 3,
+        "possession": "ready",
+        "reraId": "P52100048302",
+        "locality": "Baner",
+        "city": "Pune",
+        "amenities": [
+          "gym",
+          "security",
+          "parking",
+          "power-backup"
+        ],
+        "nearby": [
+          {
+            "type": "metro",
+            "name": "Baner Metro Station",
+            "km": 1.0
+          },
+          {
+            "type": "school",
+            "name": "Symbiosis School",
+            "km": 1.5
+          },
+          {
+            "type": "hospital",
+            "name": "Jupiter Hospital",
+            "km": 2.0
+          }
+        ],
+        "images": [
+          "/images/roles/real-estate/image-61.jpg",
+          "/images/roles/real-estate/image-62.jpg",
+          "/images/roles/real-estate/image-63.jpg"
+        ],
+        "floorPlan": null,
+        "tourUrl": null,
+        "featured": false,
+        "status": "available"
+      },
+      {
+        "id": "p-013",
+        "title": "3BHK Kharadi Park View — Rent",
+        "type": "apartment",
+        "listingFor": "rent",
+        "bhk": 3,
+        "bathrooms": 3,
+        "price": 42000,
+        "pricePerSqft": 38,
+        "carpetArea": 1100,
+        "superBuiltUp": 1430,
+        "furnishing": "semi",
+        "floor": 10,
+        "totalFloors": 18,
+        "facing": "west",
+        "ageYears": 1,
+        "possession": "ready",
+        "reraId": "P52100048303",
+        "locality": "Kharadi",
+        "city": "Pune",
+        "amenities": [
+          "gym",
+          "pool",
+          "clubhouse",
+          "power-backup",
+          "security"
+        ],
+        "nearby": [
+          {
+            "type": "hospital",
+            "name": "EON Medipoint Hospital",
+            "km": 1.8
+          },
+          {
+            "type": "mall",
+            "name": "Phoenix Marketcity",
+            "km": 3.0
+          }
+        ],
+        "images": [
+          "/images/roles/real-estate/image-64.jpg",
+          "/images/roles/real-estate/image-65.jpg",
+          "/images/roles/real-estate/image-66.jpg"
+        ],
+        "floorPlan": null,
+        "tourUrl": null,
+        "featured": false,
+        "status": "available"
+      },
+      {
+        "id": "p-014",
+        "title": "1BHK Wakad Compact — Rent",
+        "type": "apartment",
+        "listingFor": "rent",
+        "bhk": 1,
+        "bathrooms": 1,
+        "price": 16000,
+        "pricePerSqft": 26,
+        "carpetArea": 620,
+        "superBuiltUp": 806,
+        "furnishing": "semi",
+        "floor": 3,
+        "totalFloors": 10,
+        "facing": "north",
+        "ageYears": 4,
+        "possession": "ready",
+        "reraId": "P52100048304",
+        "locality": "Wakad",
+        "city": "Pune",
+        "amenities": [
+          "security",
+          "parking",
+          "power-backup"
+        ],
+        "nearby": [
+          {
+            "type": "school",
+            "name": "Xion School",
+            "km": 1.4
+          },
+          {
+            "type": "hospital",
+            "name": "Lifepoint Hospital",
+            "km": 2.6
+          }
+        ],
+        "images": [
+          "/images/roles/real-estate/image-67.jpg",
+          "/images/roles/real-estate/image-68.jpg",
+          "/images/roles/real-estate/image-69.jpg"
+        ],
+        "floorPlan": null,
+        "tourUrl": null,
+        "featured": false,
+        "status": "available"
+      },
+      {
+        "id": "p-015",
+        "title": "2BHK Hinjewadi IT Corridor — Rent",
+        "type": "apartment",
+        "listingFor": "rent",
+        "bhk": 2,
+        "bathrooms": 2,
+        "price": 24000,
+        "pricePerSqft": 28,
+        "carpetArea": 860,
+        "superBuiltUp": 1118,
+        "furnishing": "full",
+        "floor": 5,
+        "totalFloors": 14,
+        "facing": "south",
+        "ageYears": 2,
+        "possession": "ready",
+        "reraId": "P52100048305",
+        "locality": "Hinjewadi",
+        "city": "Pune",
+        "amenities": [
+          "gym",
+          "security",
+          "parking",
+          "power-backup"
+        ],
+        "nearby": [
+          {
+            "type": "school",
+            "name": "Orchid School",
+            "km": 2.3
+          },
+          {
+            "type": "hospital",
+            "name": "Medipoint Hospital",
+            "km": 3.1
+          }
+        ],
+        "images": [
+          "/images/roles/real-estate/image-70.jpg",
+          "/images/roles/real-estate/image-71.jpg",
+          "/images/roles/real-estate/image-72.jpg"
+        ],
+        "floorPlan": null,
+        "tourUrl": null,
+        "featured": false,
+        "status": "available"
+      },
+      {
+        "id": "p-016",
+        "title": "Plot Baner 1500 sqft",
+        "type": "plot",
+        "listingFor": "sale",
+        "bhk": 0,
+        "bathrooms": 0,
+        "price": 9000000,
+        "pricePerSqft": 6000,
+        "carpetArea": 1500,
+        "superBuiltUp": 1500,
+        "furnishing": "unfurnished",
+        "floor": 0,
+        "totalFloors": 1,
+        "facing": "north",
+        "ageYears": 0,
+        "possession": "ready",
+        "reraId": "P52100048306",
+        "locality": "Baner",
+        "city": "Pune",
+        "amenities": [
+          "security",
+          "power-backup"
+        ],
+        "nearby": [
+          {
+            "type": "school",
+            "name": "Symbiosis International School",
+            "km": 1.6
+          },
+          {
+            "type": "metro",
+            "name": "Baner Metro Station",
+            "km": 1.2
+          }
+        ],
+        "images": [
+          "/images/roles/real-estate/image-73.jpg",
+          "/images/roles/real-estate/image-74.jpg"
+        ],
+        "floorPlan": null,
+        "tourUrl": null,
+        "featured": false,
+        "status": "available"
+      },
+      {
+        "id": "p-017",
+        "title": "Commercial Office Baner Tech Park — Rent",
+        "type": "commercial",
+        "listingFor": "rent",
+        "bhk": 0,
+        "bathrooms": 2,
+        "price": 75000,
+        "pricePerSqft": 50,
+        "carpetArea": 1500,
+        "superBuiltUp": 1875,
+        "furnishing": "unfurnished",
+        "floor": 4,
+        "totalFloors": 8,
+        "facing": "east",
+        "ageYears": 1,
+        "possession": "ready",
+        "reraId": "P52100048307",
+        "locality": "Baner",
+        "city": "Pune",
+        "amenities": [
+          "power-backup",
+          "security",
+          "parking",
+          "lift"
+        ],
+        "nearby": [
+          {
+            "type": "metro",
+            "name": "Baner Metro Station",
+            "km": 0.9
+          },
+          {
+            "type": "hospital",
+            "name": "Jupiter Hospital",
+            "km": 2.3
+          }
+        ],
+        "images": [
+          "/images/roles/real-estate/image-75.jpg",
+          "/images/roles/real-estate/image-76.jpg",
+          "/images/roles/real-estate/image-77.jpg"
+        ],
+        "floorPlan": null,
+        "tourUrl": null,
+        "featured": false,
+        "status": "available"
+      },
+      {
+        "id": "p-018",
+        "title": "5BHK Penthouse Baner",
+        "type": "apartment",
+        "listingFor": "sale",
+        "bhk": 5,
+        "bathrooms": 5,
+        "price": 41000000,
+        "pricePerSqft": 16400,
+        "carpetArea": 2500,
+        "superBuiltUp": 3250,
+        "furnishing": "full",
+        "floor": 26,
+        "totalFloors": 26,
+        "facing": "east",
+        "ageYears": 0,
+        "possession": "ready",
+        "reraId": "P52100048308",
+        "locality": "Baner",
+        "city": "Pune",
+        "amenities": [
+          "gym",
+          "pool",
+          "clubhouse",
+          "power-backup",
+          "security",
+          "garden",
+          "lift",
+          "parking"
+        ],
+        "nearby": [
+          {
+            "type": "metro",
+            "name": "Baner Metro Station",
+            "km": 0.8
+          },
+          {
+            "type": "school",
+            "name": "Symbiosis International School",
+            "km": 1.5
+          },
+          {
+            "type": "hospital",
+            "name": "Jupiter Hospital",
+            "km": 2.0
+          },
+          {
+            "type": "mall",
+            "name": "Aundh Market",
+            "km": 2.5
+          }
+        ],
+        "images": [
+          "/images/roles/real-estate/image-78.jpg",
+          "/images/roles/real-estate/image-79.jpg",
+          "/images/roles/real-estate/image-80.jpg",
+          "/images/roles/real-estate/image-81.jpg"
+        ],
+        "floorPlan": "/images/roles/real-estate/image-82.jpg",
+        "tourUrl": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+        "featured": true,
+        "status": "available"
+      },
+      {
+        "id": "p-019",
+        "title": "2BHK Under-Construction Wakad Serenity",
+        "type": "apartment",
+        "listingFor": "sale",
+        "bhk": 2,
+        "bathrooms": 2,
+        "price": 7200000,
+        "pricePerSqft": 8471,
+        "carpetArea": 850,
+        "superBuiltUp": 1105,
+        "furnishing": "unfurnished",
+        "floor": 12,
+        "totalFloors": 20,
+        "facing": "north",
+        "ageYears": 0,
+        "possession": "2027-03",
+        "reraId": "P52100048309",
+        "locality": "Wakad",
+        "city": "Pune",
+        "amenities": [
+          "gym",
+          "pool",
+          "security",
+          "parking",
+          "power-backup"
+        ],
+        "nearby": [
+          {
+            "type": "school",
+            "name": "Cambridge School",
+            "km": 1.3
+          },
+          {
+            "type": "hospital",
+            "name": "Lifepoint Hospital",
+            "km": 2.1
+          }
+        ],
+        "images": [
+          "/images/roles/real-estate/image-83.jpg",
+          "/images/roles/real-estate/image-84.jpg",
+          "/images/roles/real-estate/image-85.jpg"
+        ],
+        "floorPlan": "/images/roles/real-estate/image-86.jpg",
+        "tourUrl": null,
+        "featured": false,
+        "status": "available"
+      },
+      {
+        "id": "p-020",
+        "title": "4BHK Villa Hinjewadi — Rent",
+        "type": "villa",
+        "listingFor": "rent",
+        "bhk": 4,
+        "bathrooms": 4,
+        "price": 85000,
+        "pricePerSqft": 38,
+        "carpetArea": 2200,
+        "superBuiltUp": 2860,
+        "furnishing": "full",
+        "floor": 0,
+        "totalFloors": 3,
+        "facing": "west",
+        "ageYears": 2,
+        "possession": "ready",
+        "reraId": "P52100048310",
+        "locality": "Hinjewadi",
+        "city": "Pune",
+        "amenities": [
+          "garden",
+          "parking",
+          "security",
+          "power-backup",
+          "pool"
+        ],
+        "nearby": [
+          {
+            "type": "school",
+            "name": "Orchid International School",
+            "km": 1.9
+          },
+          {
+            "type": "hospital",
+            "name": "Medipoint Hospital",
+            "km": 3.2
+          }
+        ],
+        "images": [
+          "/images/roles/real-estate/image-87.jpg",
+          "/images/roles/real-estate/image-88.jpg",
+          "/images/roles/real-estate/image-89.jpg",
+          "/images/roles/real-estate/image-90.jpg"
+        ],
+        "floorPlan": null,
+        "tourUrl": null,
+        "featured": false,
+        "status": "available"
+      },
+      {
+        "id": "p-021",
+        "title": "3BHK Under-Construction Hinjewadi Elite",
+        "type": "apartment",
+        "listingFor": "sale",
+        "bhk": 3,
+        "bathrooms": 3,
+        "price": 13500000,
+        "pricePerSqft": 11250,
+        "carpetArea": 1200,
+        "superBuiltUp": 1560,
+        "furnishing": "unfurnished",
+        "floor": 15,
+        "totalFloors": 28,
+        "facing": "east",
+        "ageYears": 0,
+        "possession": "2027-12",
+        "reraId": "P52100048311",
+        "locality": "Hinjewadi",
+        "city": "Pune",
+        "amenities": [
+          "gym",
+          "pool",
+          "clubhouse",
+          "security",
+          "power-backup",
+          "garden"
+        ],
+        "nearby": [
+          {
+            "type": "school",
+            "name": "Delhi Public School Hinjewadi",
+            "km": 2.0
+          },
+          {
+            "type": "hospital",
+            "name": "Sahyadri Hospital",
+            "km": 4.5
+          }
+        ],
+        "images": [
+          "/images/roles/real-estate/image-91.jpg",
+          "/images/roles/real-estate/image-92.jpg",
+          "/images/roles/real-estate/image-93.jpg"
+        ],
+        "floorPlan": "/images/roles/real-estate/image-94.jpg",
+        "tourUrl": null,
+        "featured": false,
+        "status": "available"
+      },
+      {
+        "id": "p-022",
+        "title": "1BHK Baner Studio — Rent",
+        "type": "apartment",
+        "listingFor": "rent",
+        "bhk": 1,
+        "bathrooms": 1,
+        "price": 18500,
+        "pricePerSqft": 33,
+        "carpetArea": 560,
+        "superBuiltUp": 728,
+        "furnishing": "full",
+        "floor": 9,
+        "totalFloors": 16,
+        "facing": "south",
+        "ageYears": 3,
+        "possession": "ready",
+        "reraId": "P52100048312",
+        "locality": "Baner",
+        "city": "Pune",
+        "amenities": [
+          "security",
+          "parking",
+          "power-backup",
+          "gym"
+        ],
+        "nearby": [
+          {
+            "type": "metro",
+            "name": "Baner Metro Station",
+            "km": 0.7
+          },
+          {
+            "type": "hospital",
+            "name": "Jupiter Hospital",
+            "km": 1.9
+          }
+        ],
+        "images": [
+          "/images/roles/real-estate/image-95.jpg",
+          "/images/roles/real-estate/image-96.jpg",
+          "/images/roles/real-estate/image-97.jpg"
+        ],
+        "floorPlan": null,
+        "tourUrl": null,
+        "featured": false,
+        "status": "available"
+      },
+      {
+        "id": "p-023",
+        "title": "2BHK Kharadi Primus",
+        "type": "apartment",
+        "listingFor": "sale",
+        "bhk": 2,
+        "bathrooms": 2,
+        "price": 7500000,
+        "pricePerSqft": 8333,
+        "carpetArea": 900,
+        "superBuiltUp": 1170,
+        "furnishing": "semi",
+        "floor": 11,
+        "totalFloors": 20,
+        "facing": "north",
+        "ageYears": 3,
+        "possession": "ready",
+        "reraId": "P52100048313",
+        "locality": "Kharadi",
+        "city": "Pune",
+        "amenities": [
+          "gym",
+          "security",
+          "parking",
+          "power-backup",
+          "clubhouse"
+        ],
+        "nearby": [
+          {
+            "type": "hospital",
+            "name": "EON Medipoint Hospital",
+            "km": 1.6
+          },
+          {
+            "type": "mall",
+            "name": "Phoenix Marketcity",
+            "km": 2.9
+          },
+          {
+            "type": "school",
+            "name": "Vibgyor High School",
+            "km": 2.2
+          }
+        ],
+        "images": [
+          "/images/roles/real-estate/image-98.jpg",
+          "/images/roles/real-estate/image-99.jpg",
+          "/images/roles/real-estate/image-100.jpg",
+          "/images/roles/real-estate/image-101.jpg"
+        ],
+        "floorPlan": "/images/roles/real-estate/image-102.jpg",
+        "tourUrl": null,
+        "featured": false,
+        "status": "available"
+      },
+      {
+        "id": "p-024",
+        "title": "Commercial Retail Wakad",
+        "type": "commercial",
+        "listingFor": "sale",
+        "bhk": 0,
+        "bathrooms": 1,
+        "price": 8800000,
+        "pricePerSqft": 8000,
+        "carpetArea": 1100,
+        "superBuiltUp": 1430,
+        "furnishing": "unfurnished",
+        "floor": 1,
+        "totalFloors": 5,
+        "facing": "west",
+        "ageYears": 2,
+        "possession": "ready",
+        "reraId": "P52100048314",
+        "locality": "Wakad",
+        "city": "Pune",
+        "amenities": [
+          "parking",
+          "security",
+          "power-backup"
+        ],
+        "nearby": [
+          {
+            "type": "mall",
+            "name": "Xion Mall",
+            "km": 0.8
+          },
+          {
+            "type": "school",
+            "name": "DPS Wakad",
+            "km": 1.5
+          }
+        ],
+        "images": [
+          "/images/roles/real-estate/image-103.jpg",
+          "/images/roles/real-estate/image-104.jpg",
+          "/images/roles/real-estate/image-105.jpg"
+        ],
+        "floorPlan": null,
+        "tourUrl": null,
+        "featured": false,
+        "status": "available"
+      }
+    ],
+    "filters": {
+      "budgetRange": [
+        3000000,
+        45000000
+      ],
+      "budgetStep": 500000,
+      "bhkOptions": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "typeOptions": [
+        "apartment",
+        "villa",
+        "plot",
+        "commercial"
+      ],
+      "localities": [
+        "Baner",
+        "Kharadi",
+        "Wakad",
+        "Hinjewadi"
+      ]
+    },
+    "emi": {
+      "defaultRate": 8.5,
+      "defaultTenure": 20,
+      "minDownPct": 10
+    },
+    "stampDuty": {
+      "state": "Maharashtra",
+      "dutyPct": 6,
+      "regPct": 1,
+      "femaleRebatePct": 1
+    }
+  }
+}

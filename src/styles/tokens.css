@@ -1,0 +1,112 @@
+/**
+ * Base token contract — docs/04-DESIGN-SYSTEM.md Section 2.
+ * Colors are OKLCH. This file holds the NEUTRAL defaults (light);
+ * role-themes.css only overrides what a role actually changes.
+ *
+ * Two families live here on purpose:
+ *   1. our semantic tokens  (--brand, --fg-muted, ...)  -> used by our sections
+ *   2. the shadcn bridge    (--primary, --muted, ...)   -> derived from family 1,
+ *      so harvested shadcn/ui components inherit the role theme for free.
+ */
+
+:root {
+  color-scheme: light;
+
+  /* --- brand ------------------------------------------------------------ */
+  --brand: oklch(0.42 0.09 240);
+  --brand-fg: oklch(0.99 0 0);
+  --brand-muted: oklch(0.95 0.02 240);
+  --accent: oklch(0.72 0.13 230);
+  --accent-fg: oklch(0.2 0.02 240);
+
+  /* --- neutrals --------------------------------------------------------- */
+  --bg: oklch(0.99 0.002 240);
+  --surface: oklch(1 0 0);
+  --surface-2: oklch(0.97 0.004 240);
+  --surface-elevated: oklch(1 0 0);
+  --fg: oklch(0.21 0.015 240);
+  --fg-muted: oklch(0.49 0.015 240);
+  --fg-subtle: oklch(0.61 0.012 240);
+  --border: oklch(0.91 0.006 240);
+  --border-strong: oklch(0.6 0.02 240);
+
+  /* --- status ----------------------------------------------------------- */
+  --success: oklch(0.55 0.13 155);
+  --warning: oklch(0.63 0.14 75);
+  --danger: oklch(0.55 0.19 27);
+  --info: oklch(0.55 0.13 240);
+
+  --ring: var(--brand);
+  --overlay: oklch(0.15 0.01 240 / 0.35);
+
+  /* --- radius ----------------------------------------------------------- */
+  --radius-sm: 0.375rem;
+  --radius-md: 0.5rem;
+  --radius-lg: 0.75rem;
+  --radius-xl: 1rem;
+  --radius-2xl: 1.5rem;
+
+  /* --- elevation (never pure black — tinted by brand) ------------------- */
+  --shadow-sm: 0 1px 2px oklch(from var(--brand) l c h / 0.08);
+  --shadow-md:
+    0 4px 12px oklch(from var(--brand) l c h / 0.1), 0 1px 3px oklch(from var(--brand) l c h / 0.06);
+  --shadow-lg:
+    0 12px 32px oklch(from var(--brand) l c h / 0.14), 0 2px 8px oklch(from var(--brand) l c h / 0.08);
+  --shadow-glow: 0 0 0 1px oklch(from var(--accent) l c h / 0.35), 0 8px 28px oklch(from var(--accent) l c h / 0.25);
+
+  /* --- gradients -------------------------------------------------------- */
+  --gradient-hero: linear-gradient(
+    160deg,
+    oklch(from var(--brand) l c h / 0.1) 0%,
+    oklch(from var(--accent) l c h / 0.08) 55%,
+    transparent 100%
+  );
+  --gradient-card: linear-gradient(
+    145deg,
+    oklch(from var(--surface) l c h / 1) 0%,
+    oklch(from var(--surface-2) l c h / 1) 100%
+  );
+
+  /* --- spacing rhythm (4pt base) ---------------------------------------- */
+  --space-section-y: 4rem;
+  --space-section-y-lg: 7rem;
+  --container-max: 1200px;
+  --container-gutter: 1.25rem;
+  --container-gutter-lg: 2rem;
+
+  /* --- z-index scale ---------------------------------------------------- */
+  --z-base: 0;
+  --z-sticky: 20;
+  --z-header: 40;
+  --z-fab: 60;
+  --z-overlay: 80;
+  --z-modal: 100;
+  --z-toast: 120;
+
+  /* --- motion ----------------------------------------------------------- */
+  --duration-fast: 150ms;
+  --duration-base: 200ms;
+  --duration-slow: 320ms;
+  --duration-reveal: 500ms;
+  --ease-out: cubic-bezier(0.16, 1, 0.3, 1);
+  --ease-in-out: cubic-bezier(0.65, 0, 0.35, 1);
+
+  /* --- shadcn/ui bridge (derived — never set these per role) ------------ */
+  --background: var(--bg);
+  --foreground: var(--fg);
+  --card: var(--surface-elevated);
+  --card-foreground: var(--fg);
+  --popover: var(--surface-elevated);
+  --popover-foreground: var(--fg);
+  --primary: var(--brand);
+  --primary-foreground: var(--brand-fg);
+  --secondary: var(--surface-2);
+  --secondary-foreground: var(--fg);
+  --muted: var(--surface-2);
+  --muted-foreground: var(--fg-muted);
+  --accent-foreground: var(--accent-fg);
+  --destructive: var(--danger);
+  --destructive-foreground: var(--brand-fg);
+  --input: var(--border);
+  --radius: var(--radius-lg);
+}

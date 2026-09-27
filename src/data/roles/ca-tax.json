@@ -1,0 +1,453 @@
+{
+  "profile": {
+    "name": "CA Rohan Agarwal",
+    "designation": "Partner, Agarwal & Associates",
+    "tagline": "Expert Tax Planning & Audit in Delhi NCR",
+    "shortBio": "Helping freelancers and businesses save tax legally and stay 100% compliant.",
+    "longBio": "Hi, I am CA Rohan Agarwal. Managing taxes shouldn't be stressful. We provide modern, tech-driven accounting services for startups, SMEs, and salaried professionals. Humari koshish hai ki aap compliance ke baare me na sochein, sirf apni business growth par focus karein.",
+    "experienceYears": 12,
+    "languages": [
+      "English",
+      "Hindi"
+    ],
+    "avatar": "https://i.pravatar.cc/150?u=rohan",
+    "coverImage": "/images/roles/ca-tax/image-1.jpg",
+    "coverVideo": null,
+    "logo": "/images/roles/ca-tax/logo.svg",
+    "bio": "Hello! I am dedicated to providing the best service in my field. With years of experience and a passion for excellence, I strive to meet and exceed expectations."
+  },
+  "contact": {
+    "whatsapp": "+919876543210",
+    "phone": "+919876543210",
+    "altPhone": "+919876543210",
+    "email": "hello@example.in",
+    "website": "https://example.in",
+    "address": {
+      "line1": "Joshi & Associates",
+      "line2": "Deccan Gymkhana",
+      "city": "Pune",
+      "state": "Maharashtra",
+      "pincode": "411005",
+      "country": "India",
+      "lat": 18.5204,
+      "lng": 73.8567,
+      "googleMapsUrl": "https://maps.google.com/?q=18.5204,73.8567",
+      "plusCode": ""
+    },
+    "hours": [
+      {
+        "day": "mon",
+        "open": "10:00",
+        "close": "19:00",
+        "breakStart": null,
+        "breakEnd": null
+      },
+      {
+        "day": "tue",
+        "open": "10:00",
+        "close": "19:00",
+        "breakStart": null,
+        "breakEnd": null
+      },
+      {
+        "day": "wed",
+        "open": "10:00",
+        "close": "19:00",
+        "breakStart": null,
+        "breakEnd": null
+      },
+      {
+        "day": "thu",
+        "open": "10:00",
+        "close": "19:00",
+        "breakStart": null,
+        "breakEnd": null
+      },
+      {
+        "day": "fri",
+        "open": "10:00",
+        "close": "19:00",
+        "breakStart": null,
+        "breakEnd": null
+      },
+      {
+        "day": "sat",
+        "open": "10:00",
+        "close": "17:00",
+        "breakStart": null,
+        "breakEnd": null
+      },
+      {
+        "day": "sun",
+        "open": null,
+        "close": null,
+        "breakStart": null,
+        "breakEnd": null
+      }
+    ],
+    "socials": {
+      "instagram": "",
+      "facebook": "",
+      "linkedin": "",
+      "youtube": "",
+      "x": "",
+      "justdial": "",
+      "googleBusiness": ""
+    }
+  },
+  "trust": {
+    "badges": [
+      {
+        "icon": "shield-check",
+        "label": "ICAI Member",
+        "sub": "M.No: 148291"
+      },
+      {
+        "icon": "star",
+        "label": "4.9 / 5",
+        "sub": "300+ ITRs filed"
+      }
+    ],
+    "stats": [
+      {
+        "value": 2600,
+        "suffix": "+",
+        "label": "Returns Filed"
+      },
+      {
+        "value": 12,
+        "suffix": " yrs",
+        "label": "Experience"
+      }
+    ],
+    "registrationId": "ICAI 148291",
+    "associations": []
+  },
+  "services": [
+    {
+      "id": "itr",
+      "title": "ITR Filing",
+      "description": "Hassle-free income tax return filing for salaried & businesses.",
+      "icon": "file-text",
+      "image": "/images/roles/ca-tax/image-2.jpg",
+      "priceFrom": 1499,
+      "priceUnit": "/year",
+      "duration": "",
+      "highlights": [
+        "Max refund check",
+        "Notice assistance"
+      ],
+      "ctaIntent": "callback_request"
+    },
+    {
+      "id": "gst",
+      "title": "GST Registration & Return",
+      "description": "End-to-end GST compliance and monthly filings.",
+      "icon": "briefcase",
+      "image": "/images/roles/ca-tax/image-3.jpg",
+      "priceFrom": 999,
+      "priceUnit": "/month",
+      "duration": "",
+      "highlights": [
+        "Reconciliation",
+        "Input credit opt"
+      ],
+      "ctaIntent": "callback_request"
+    }
+  ],
+  "gallery": [
+    {
+      "type": "image",
+      "src": "/images/roles/ca-tax/image-4.jpg",
+      "alt": "Tax Filing Desk",
+      "width": 1600,
+      "height": 1067,
+      "tags": [
+        "office"
+      ]
+    },
+    {
+      "type": "image",
+      "src": "/images/roles/ca-tax/image-5.jpg",
+      "alt": "Financial Review",
+      "width": 1600,
+      "height": 1067,
+      "tags": [
+        "documents"
+      ]
+    },
+    {
+      "type": "image",
+      "src": "/images/roles/ca-tax/image-6.jpg",
+      "alt": "Business Strategy",
+      "width": 1600,
+      "height": 1067,
+      "tags": [
+        "meeting"
+      ]
+    },
+    {
+      "type": "image",
+      "src": "/images/roles/ca-tax/image-7.jpg",
+      "alt": "Audit Preparation",
+      "width": 1600,
+      "height": 1067,
+      "tags": [
+        "audit"
+      ]
+    },
+    {
+      "type": "image",
+      "src": "/images/roles/ca-tax/image-8.jpg",
+      "alt": "Client Discussion",
+      "width": 1600,
+      "height": 1067,
+      "tags": [
+        "client"
+      ]
+    },
+    {
+      "type": "image",
+      "src": "/images/roles/ca-tax/image-9.jpg",
+      "alt": "Team Workspace",
+      "width": 1600,
+      "height": 1067,
+      "tags": [
+        "team"
+      ]
+    },
+    {
+      "type": "image",
+      "src": "/images/roles/ca-tax/image-10.jpg",
+      "alt": "Advisory Service",
+      "width": 1600,
+      "height": 1067,
+      "tags": [
+        "advisory"
+      ]
+    },
+    {
+      "type": "video",
+      "src": "https://www.w3schools.com/html/mov_bbb.mp4",
+      "poster": "https://img.youtube.com/vi/aqz-KE-bpKQ/maxresdefault.jpg",
+      "alt": "CA Introduction Video",
+      "width": 1280,
+      "height": 720,
+      "tags": [
+        "intro"
+      ]
+    }
+  ],
+  "testimonials": [
+    {
+      "name": "Varun Bhatia",
+      "role": "Freelancer",
+      "avatar": "https://i.pravatar.cc/150?u=varun",
+      "rating": 5,
+      "text": "Rohan sir helped me choose the right tax regime and saved me over ₹40,000 in taxes this year. Process was fully online.",
+      "date": "2025-07-20",
+      "source": "google"
+    },
+    {
+      "name": "Akash Deep",
+      "role": "Startup Founder",
+      "avatar": "https://i.pravatar.cc/150?u=akash",
+      "rating": 5,
+      "text": "Agarwal & Associates manages all our company compliances—GST, TDS, ROC. Unki wajah se main bas apne business pe focus karta hu.",
+      "date": "2026-01-15",
+      "source": "google"
+    },
+    {
+      "name": "Swati Khanna",
+      "role": "Salaried Professional",
+      "avatar": "https://i.pravatar.cc/150?u=swati",
+      "rating": 5,
+      "text": "Mujhe ek income tax notice aaya tha pichle saal. Rohan ji ne respond kiya aur matter easily resolve ho gaya. Very thankful.",
+      "date": "2025-10-10",
+      "source": "google"
+    },
+    {
+      "name": "Deepak Mehra",
+      "role": "Trader",
+      "avatar": "https://i.pravatar.cc/150?u=deepak",
+      "rating": 4,
+      "text": "F&O losses carry forward karne me bahut help ki. Clear communication and fair fees.",
+      "date": "2025-11-28",
+      "source": "google"
+    },
+    {
+      "name": "Priti Sharma",
+      "role": "Boutique Owner",
+      "avatar": "https://i.pravatar.cc/150?u=priti",
+      "rating": 5,
+      "text": "Monthly GST return ekdum time par jata hai. Koi penalty nahi aati. Excellent service for small business owners.",
+      "date": "2026-02-10",
+      "source": "justdial"
+    },
+    {
+      "name": "Manish Goyal",
+      "role": "NRI",
+      "avatar": "https://i.pravatar.cc/150?u=manish",
+      "rating": 5,
+      "text": "They handle my property tax and repatriation forms seamlessly while I am in the US. Total peace of mind.",
+      "date": "2025-08-05",
+      "source": "google"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Old ya New tax regime? Kaunsa better hai?",
+      "a": "Yeh apki deductions (like 80C, HRA, home loan interest) pe depend karta hai. Agar deductions 3.75 Lakh se zyada hain, toh usually Old regime better hota hai. Hum dono evaluate karke best option suggest karte hain."
+    },
+    {
+      "q": "Freelancers ko kaunsa form bharna chahiye?",
+      "a": "Freelancers aur professionals (like IT consultants, doctors) ke liye ITR-4 (Section 44ADA) best rehta hai. Isme aap 50% income ko expense claim kar sakte ho."
+    },
+    {
+      "q": "Kya GST registration lene ke baad return file karna zaroori hai agar sale zero ho?",
+      "a": "Haan! Agar aapne GST number liya hai, toh 'Nil Return' file karna mandatory hai. Late filing pe ₹20-50 per day ki penalty lag sakti hai."
+    },
+    {
+      "q": "Notice aane par kya karein?",
+      "a": "Ghabrayein nahi. Notice WhatsApp par share karein. Hum check karenge ki notice defective return ka hai ya scrutiny ka, aur accordingly reply file karenge."
+    }
+  ],
+  "cta": {
+    "primary": {
+      "label": "Get My Checklist",
+      "intent": "checklist_send"
+    },
+    "secondary": {
+      "label": "Save My Contact",
+      "intent": "vcard_download"
+    }
+  },
+  "leadForm": {
+    "title": "Request a callback",
+    "subtitle": "We reply on WhatsApp within 10 minutes.",
+    "fields": [
+      "name",
+      "phone",
+      "message"
+    ],
+    "intent": "callback_request",
+    "consentText": "I agree to be contacted on WhatsApp."
+  },
+  "seo": {
+    "title": "CA Vikram Joshi - Chartered Accountant, Tax & GST, Pune",
+    "description": "Placeholder SEO description for the ca-tax role.",
+    "keywords": [
+      "ca in pune",
+      "itr filing pune"
+    ],
+    "ogImage": "auto"
+  },
+  "module": {
+    "checklists": {
+      "salaried": [
+        {
+          "id": "form16",
+          "label": "Form 16 (Part A & B)",
+          "required": true,
+          "hint": "From your employer"
+        },
+        {
+          "id": "ais",
+          "label": "AIS / Form 26AS",
+          "required": true,
+          "hint": ""
+        }
+      ],
+      "business": [
+        {
+          "id": "pl",
+          "label": "Profit & Loss Statement",
+          "required": true,
+          "hint": ""
+        }
+      ],
+      "nri": [],
+      "capitalGains": []
+    },
+    "regimeCalc": {
+      "fy": "2025-26",
+      "slabsOld": [
+        {
+          "upTo": 250000,
+          "ratePct": 0
+        },
+        {
+          "upTo": 500000,
+          "ratePct": 5
+        },
+        {
+          "upTo": 1000000,
+          "ratePct": 20
+        },
+        {
+          "upTo": null,
+          "ratePct": 30
+        }
+      ],
+      "slabsNew": [
+        {
+          "upTo": 400000,
+          "ratePct": 0
+        },
+        {
+          "upTo": 800000,
+          "ratePct": 5
+        },
+        {
+          "upTo": 1200000,
+          "ratePct": 10
+        },
+        {
+          "upTo": 1600000,
+          "ratePct": 15
+        },
+        {
+          "upTo": 2000000,
+          "ratePct": 20
+        },
+        {
+          "upTo": 2400000,
+          "ratePct": 25
+        },
+        {
+          "upTo": null,
+          "ratePct": 30
+        }
+      ],
+      "stdDeduction": 75000,
+      "cessPct": 4
+    },
+    "gst": {
+      "slabs": [
+        0,
+        5,
+        12,
+        18,
+        28
+      ]
+    },
+    "dueDates": [
+      {
+        "date": "2026-07-31",
+        "title": "ITR Filing (non-audit)",
+        "for": "salaried"
+      }
+    ],
+    "packages": [
+      {
+        "name": "ITR - Salaried",
+        "price": 1499,
+        "turnaround": "24 hrs",
+        "includes": [
+          "Placeholder inclusion"
+        ]
+      }
+    ],
+    "membershipNo": "ICAI 148291"
+  }
+}

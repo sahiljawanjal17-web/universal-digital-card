@@ -1,0 +1,396 @@
+{
+  "profile": {
+    "name": "Karan Singh",
+    "designation": "Certified Fitness Trainer",
+    "tagline": "Transforming bodies and mindsets",
+    "shortBio": "Bangalore based fitness coach specializing in fat loss and strength conditioning.",
+    "longBio": "Namaste! I'm Karan. Main manta hu ki fitness sirf gym me nahi, aapki daily lifestyle me hoti hai. Pichle 8 saalo me maine 500+ logon ko weight lose karne aur fit rehne me help ki hai, bina crash diets ke. Humare workout plans Indian diets (roti, chawal, dal) ke around revolve karte hain.",
+    "experienceYears": 8,
+    "languages": [
+      "English",
+      "Hindi"
+    ],
+    "avatar": "https://i.pravatar.cc/150?u=karan",
+    "coverImage": "/images/roles/fitness-tutor/image-1.jpg",
+    "coverVideo": null,
+    "logo": "/images/roles/fitness-tutor/logo.svg",
+    "bio": "Hello! I am dedicated to providing the best service in my field. With years of experience and a passion for excellence, I strive to meet and exceed expectations."
+  },
+  "contact": {
+    "whatsapp": "+919876543210",
+    "phone": "+919876543210",
+    "altPhone": "+919876543210",
+    "email": "hello@example.in",
+    "website": "https://example.in",
+    "address": {
+      "line1": "IronWorks Fitness",
+      "line2": "Kalyani Nagar",
+      "city": "Pune",
+      "state": "Maharashtra",
+      "pincode": "411005",
+      "country": "India",
+      "lat": 18.5204,
+      "lng": 73.8567,
+      "googleMapsUrl": "https://maps.google.com/?q=18.5204,73.8567",
+      "plusCode": ""
+    },
+    "hours": [
+      {
+        "day": "mon",
+        "open": "10:00",
+        "close": "19:00",
+        "breakStart": null,
+        "breakEnd": null
+      },
+      {
+        "day": "tue",
+        "open": "10:00",
+        "close": "19:00",
+        "breakStart": null,
+        "breakEnd": null
+      },
+      {
+        "day": "wed",
+        "open": "10:00",
+        "close": "19:00",
+        "breakStart": null,
+        "breakEnd": null
+      },
+      {
+        "day": "thu",
+        "open": "10:00",
+        "close": "19:00",
+        "breakStart": null,
+        "breakEnd": null
+      },
+      {
+        "day": "fri",
+        "open": "10:00",
+        "close": "19:00",
+        "breakStart": null,
+        "breakEnd": null
+      },
+      {
+        "day": "sat",
+        "open": "10:00",
+        "close": "17:00",
+        "breakStart": null,
+        "breakEnd": null
+      },
+      {
+        "day": "sun",
+        "open": null,
+        "close": null,
+        "breakStart": null,
+        "breakEnd": null
+      }
+    ],
+    "socials": {
+      "instagram": "",
+      "facebook": "",
+      "linkedin": "",
+      "youtube": "",
+      "x": "",
+      "justdial": "",
+      "googleBusiness": ""
+    }
+  },
+  "trust": {
+    "badges": [
+      {
+        "icon": "shield-check",
+        "label": "ACE Certified",
+        "sub": "Personal Trainer"
+      },
+      {
+        "icon": "star",
+        "label": "4.8 / 5",
+        "sub": "150+ Transformations"
+      }
+    ],
+    "stats": [
+      {
+        "value": 900,
+        "suffix": "+",
+        "label": "Transformations"
+      },
+      {
+        "value": 8,
+        "suffix": " yrs",
+        "label": "Experience"
+      }
+    ],
+    "registrationId": "",
+    "associations": []
+  },
+  "services": [
+    {
+      "id": "pt",
+      "title": "Personal Training",
+      "description": "1-on-1 coaching at your gym or home.",
+      "icon": "activity",
+      "image": "/images/roles/fitness-tutor/image-2.jpg",
+      "priceFrom": 8000,
+      "priceUnit": "/month",
+      "duration": "",
+      "highlights": [
+        "Custom plan",
+        "Form check"
+      ],
+      "ctaIntent": "callback_request"
+    },
+    {
+      "id": "online",
+      "title": "Online Coaching",
+      "description": "Workout plan + Indian diet chart on app.",
+      "icon": "smartphone",
+      "image": "/images/roles/fitness-tutor/image-3.jpg",
+      "priceFrom": 3000,
+      "priceUnit": "/month",
+      "duration": "",
+      "highlights": [
+        "Weekly check-ins",
+        "WhatsApp support"
+      ],
+      "ctaIntent": "callback_request"
+    }
+  ],
+  "gallery": [
+    {
+      "type": "image",
+      "src": "/images/roles/fitness-tutor/image-4.jpg",
+      "alt": "Gym Workout",
+      "width": 1600,
+      "height": 1067,
+      "tags": [
+        "workout"
+      ]
+    },
+    {
+      "type": "image",
+      "src": "/images/roles/fitness-tutor/image-5.jpg",
+      "alt": "Strength Training",
+      "width": 1600,
+      "height": 1067,
+      "tags": [
+        "strength"
+      ]
+    },
+    {
+      "type": "image",
+      "src": "/images/roles/fitness-tutor/image-6.jpg",
+      "alt": "Personal Training",
+      "width": 1600,
+      "height": 1067,
+      "tags": [
+        "coaching"
+      ]
+    },
+    {
+      "type": "image",
+      "src": "/images/roles/fitness-tutor/image-7.jpg",
+      "alt": "Outdoor Fitness",
+      "width": 1600,
+      "height": 1067,
+      "tags": [
+        "outdoor"
+      ]
+    },
+    {
+      "type": "image",
+      "src": "/images/roles/fitness-tutor/image-8.jpg",
+      "alt": "Nutrition Planning",
+      "width": 1600,
+      "height": 1067,
+      "tags": [
+        "diet"
+      ]
+    },
+    {
+      "type": "image",
+      "src": "/images/roles/fitness-tutor/image-9.jpg",
+      "alt": "Client Transformation",
+      "width": 1600,
+      "height": 1067,
+      "tags": [
+        "results"
+      ]
+    },
+    {
+      "type": "image",
+      "src": "/images/roles/fitness-tutor/image-10.jpg",
+      "alt": "Core Exercise",
+      "width": 1600,
+      "height": 1067,
+      "tags": [
+        "core"
+      ]
+    },
+    {
+      "type": "video",
+      "src": "https://www.w3schools.com/html/mov_bbb.mp4",
+      "poster": "https://img.youtube.com/vi/aqz-KE-bpKQ/maxresdefault.jpg",
+      "alt": "Workout Routine Video",
+      "width": 1280,
+      "height": 720,
+      "tags": [
+        "routine"
+      ]
+    }
+  ],
+  "testimonials": [
+    {
+      "name": "Rahul Deshpande",
+      "role": "Software Developer",
+      "avatar": "https://i.pravatar.cc/150?u=rahuld",
+      "rating": 5,
+      "text": "12 weeks me 8kg drop kiya! Best part is mujhe apni regular dal-chawal diet chhodni nahi padi. Karan is a very practical coach.",
+      "date": "2025-08-15",
+      "source": "google"
+    },
+    {
+      "name": "Shruti Varma",
+      "role": "HR Manager",
+      "avatar": "https://i.pravatar.cc/150?u=shruti",
+      "rating": 5,
+      "text": "I had severe PCOD issues. Karan sir designed a strength training routine that completely transformed my energy levels. Lost inches beautifully.",
+      "date": "2026-01-22",
+      "source": "google"
+    },
+    {
+      "name": "Vivek Anand",
+      "role": "Student",
+      "avatar": "https://i.pravatar.cc/150?u=vivek",
+      "rating": 4,
+      "text": "Good push during offline PT sessions. Kabhi workout skip karne nahi dete. Fees is totally worth the results.",
+      "date": "2025-11-10",
+      "source": "google"
+    },
+    {
+      "name": "Pooja Hegde",
+      "role": "Homemaker",
+      "avatar": "https://i.pravatar.cc/150?u=poojah",
+      "rating": 5,
+      "text": "Online coaching was so seamless. Video form checks help a lot. Joined with my husband and we both saw great changes.",
+      "date": "2026-03-05",
+      "source": "google"
+    },
+    {
+      "name": "Gaurav Singh",
+      "role": "Sales Exec",
+      "avatar": "https://i.pravatar.cc/150?u=gaurav",
+      "rating": 5,
+      "text": "Back pain gone after focusing on core strength and correct form under his guidance. Top guy!",
+      "date": "2025-09-30",
+      "source": "justdial"
+    },
+    {
+      "name": "Tanya Kapoor",
+      "role": "Designer",
+      "avatar": "https://i.pravatar.cc/150?u=tanya",
+      "rating": 5,
+      "text": "Not just workouts, his habit tracking method is a game changer. Sleep aur water intake proper fix kara dia mera.",
+      "date": "2026-02-18",
+      "source": "google"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Do I need to eat boiled chicken and broccoli for weight loss?",
+      "a": "Bilkul nahi! Aap ghar ka khana (roti, dal, sabzi) khakar bhi weight lose kar sakte hain. Bas hume portions aur total calories ko manage karna hota hai."
+    },
+    {
+      "q": "Mere paas gym jane ka time nahi hai. Can I workout at home?",
+      "a": "Yes. Humare paas specially designed home-workout plans hain using resistance bands aur bodyweight, jo gym jaise hi results dete hain."
+    },
+    {
+      "q": "Is online coaching really effective?",
+      "a": "Yes, 70% of my clients are online! App ke through mai apki progress (weight, pictures, workout logs) roz track karta hu aur weekend pe video call check-in hota hai."
+    },
+    {
+      "q": "Do you prescribe supplements like protein powder?",
+      "a": "Whey protein completely safe aur convenient source hai veg diet me protein badhane ka. But agar apko supplements nahi lene, toh hum diet chart ko usi hisab se adjust karte hain."
+    }
+  ],
+  "cta": {
+    "primary": {
+      "label": "Get 1-Day VIP Pass",
+      "intent": "pass_generate"
+    },
+    "secondary": {
+      "label": "Save My Contact",
+      "intent": "vcard_download"
+    }
+  },
+  "leadForm": {
+    "title": "Request a callback",
+    "subtitle": "We reply on WhatsApp within 10 minutes.",
+    "fields": [
+      "name",
+      "phone",
+      "message"
+    ],
+    "intent": "callback_request",
+    "consentText": "I agree to be contacted on WhatsApp."
+  },
+  "seo": {
+    "title": "Rahul Mehta - Certified Strength & Conditioning Coach, Pune",
+    "description": "Placeholder SEO description for the fitness-tutor role.",
+    "keywords": [
+      "gym in pune",
+      "personal trainer pune"
+    ],
+    "ogImage": "auto"
+  },
+  "module": {
+    "variant": "gym",
+    "vipPass": {
+      "validityDays": 1,
+      "perks": [
+        "Full gym access",
+        "1 PT session"
+      ],
+      "terms": "Valid once per person. Carry a photo ID."
+    },
+    "programs": [
+      {
+        "name": "12-Week Transformation",
+        "price": 18000,
+        "sessions": 36,
+        "level": "all"
+      }
+    ],
+    "timetable": [
+      {
+        "day": "mon",
+        "slots": [
+          {
+            "time": "06:00",
+            "class": "HIIT",
+            "trainer": "Rahul"
+          }
+        ]
+      }
+    ],
+    "transformations": [
+      {
+        "name": "Karan",
+        "weeks": 16,
+        "before": "/images/roles/fitness-tutor/image-11.jpg",
+        "after": "/images/roles/fitness-tutor/image-12.jpg",
+        "lost": "18 kg"
+      }
+    ],
+    "calculators": [
+      "bmi",
+      "bmr",
+      "tdee"
+    ],
+    "tutor": {
+      "boards": [],
+      "classes": [],
+      "subjects": [],
+      "results": []
+    }
+  }
+}

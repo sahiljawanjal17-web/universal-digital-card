@@ -1,0 +1,402 @@
+{
+  "profile": {
+    "name": "Aarav Mehta",
+    "designation": "Lead Photographer & Cinematographer",
+    "tagline": "Capturing your raw, unfiltered moments",
+    "shortBio": "Udaipur-based premium wedding photography studio specializing in candid and cinematic storytelling.",
+    "longBio": "Hey! I'm Aarav. We are a team of passionate storytellers who love capturing the chaos, joy, and tears of Indian weddings. Humara style thoda candid hai—we don't make you pose awkwardly for hours. We capture the magic as it naturally happens. Covered 200+ weddings across Rajasthan, Goa, and Kerala.",
+    "experienceYears": 10,
+    "languages": [
+      "English",
+      "Hindi"
+    ],
+    "avatar": "https://i.pravatar.cc/150?u=aarav",
+    "coverImage": "/images/roles/photographer/image-1.jpg",
+    "coverVideo": null,
+    "logo": "/images/roles/photographer/logo.svg",
+    "bio": "Hello! I am dedicated to providing the best service in my field. With years of experience and a passion for excellence, I strive to meet and exceed expectations."
+  },
+  "contact": {
+    "whatsapp": "+919876543210",
+    "phone": "+919876543210",
+    "altPhone": "+919876543210",
+    "email": "hello@example.in",
+    "website": "https://example.in",
+    "address": {
+      "line1": "Frame Stories Studio",
+      "line2": "Koregaon Park",
+      "city": "Pune",
+      "state": "Maharashtra",
+      "pincode": "411005",
+      "country": "India",
+      "lat": 18.5204,
+      "lng": 73.8567,
+      "googleMapsUrl": "https://maps.google.com/?q=18.5204,73.8567",
+      "plusCode": ""
+    },
+    "hours": [
+      {
+        "day": "mon",
+        "open": "10:00",
+        "close": "19:00",
+        "breakStart": null,
+        "breakEnd": null
+      },
+      {
+        "day": "tue",
+        "open": "10:00",
+        "close": "19:00",
+        "breakStart": null,
+        "breakEnd": null
+      },
+      {
+        "day": "wed",
+        "open": "10:00",
+        "close": "19:00",
+        "breakStart": null,
+        "breakEnd": null
+      },
+      {
+        "day": "thu",
+        "open": "10:00",
+        "close": "19:00",
+        "breakStart": null,
+        "breakEnd": null
+      },
+      {
+        "day": "fri",
+        "open": "10:00",
+        "close": "19:00",
+        "breakStart": null,
+        "breakEnd": null
+      },
+      {
+        "day": "sat",
+        "open": "10:00",
+        "close": "17:00",
+        "breakStart": null,
+        "breakEnd": null
+      },
+      {
+        "day": "sun",
+        "open": null,
+        "close": null,
+        "breakStart": null,
+        "breakEnd": null
+      }
+    ],
+    "socials": {
+      "instagram": "",
+      "facebook": "",
+      "linkedin": "",
+      "youtube": "",
+      "x": "",
+      "justdial": "",
+      "googleBusiness": ""
+    }
+  },
+  "trust": {
+    "badges": [
+      {
+        "icon": "camera",
+        "label": "Fearless Photographers",
+        "sub": "Award Winner 2025"
+      },
+      {
+        "icon": "star",
+        "label": "4.9 / 5",
+        "sub": "200+ Weddings"
+      }
+    ],
+    "stats": [
+      {
+        "value": 260,
+        "suffix": "+",
+        "label": "Weddings Shot"
+      },
+      {
+        "value": 10,
+        "suffix": " yrs",
+        "label": "Experience"
+      }
+    ],
+    "registrationId": "",
+    "associations": []
+  },
+  "services": [
+    {
+      "id": "wedding",
+      "title": "Wedding Photography",
+      "description": "Complete candid + traditional coverage with cinematic reels.",
+      "icon": "camera",
+      "image": "/images/roles/photographer/image-2.jpg",
+      "priceFrom": 85000,
+      "priceUnit": "/day",
+      "duration": "",
+      "highlights": [
+        "Candid",
+        "Drone",
+        "Coffee table book"
+      ],
+      "ctaIntent": "callback_request"
+    },
+    {
+      "id": "prewedding",
+      "title": "Pre-Wedding Shoot",
+      "description": "Creative outdoor couple shoots with styling assistance.",
+      "icon": "heart",
+      "image": "/images/roles/photographer/image-3.jpg",
+      "priceFrom": 35000,
+      "priceUnit": "/shoot",
+      "duration": "",
+      "highlights": [
+        "Multiple locations",
+        "Teaser video"
+      ],
+      "ctaIntent": "callback_request"
+    }
+  ],
+  "gallery": [
+    {
+      "type": "image",
+      "src": "/images/roles/photographer/image-4.jpg",
+      "alt": "Bride and Groom",
+      "width": 1600,
+      "height": 1067,
+      "tags": [
+        "wedding"
+      ]
+    },
+    {
+      "type": "image",
+      "src": "/images/roles/photographer/image-5.jpg",
+      "alt": "Haldi Ceremony",
+      "width": 1600,
+      "height": 1067,
+      "tags": [
+        "haldi"
+      ]
+    },
+    {
+      "type": "image",
+      "src": "/images/roles/photographer/image-6.jpg",
+      "alt": "Mehendi Hands",
+      "width": 1600,
+      "height": 1067,
+      "tags": [
+        "mehendi"
+      ]
+    },
+    {
+      "type": "image",
+      "src": "/images/roles/photographer/image-7.jpg",
+      "alt": "Sangeet Performance",
+      "width": 1600,
+      "height": 1067,
+      "tags": [
+        "sangeet"
+      ]
+    },
+    {
+      "type": "image",
+      "src": "/images/roles/photographer/image-8.jpg",
+      "alt": "Pre-wedding Shoot",
+      "width": 1600,
+      "height": 1067,
+      "tags": [
+        "prewedding"
+      ]
+    },
+    {
+      "type": "image",
+      "src": "/images/roles/photographer/image-9.jpg",
+      "alt": "Decor Details",
+      "width": 1600,
+      "height": 1067,
+      "tags": [
+        "decor"
+      ]
+    },
+    {
+      "type": "image",
+      "src": "/images/roles/photographer/image-10.jpg",
+      "alt": "Vidaai Emotion",
+      "width": 1600,
+      "height": 1067,
+      "tags": [
+        "candid"
+      ]
+    },
+    {
+      "type": "video",
+      "src": "https://www.w3schools.com/html/mov_bbb.mp4",
+      "poster": "https://img.youtube.com/vi/aqz-KE-bpKQ/maxresdefault.jpg",
+      "alt": "Wedding Cinematic Teaser",
+      "width": 1280,
+      "height": 720,
+      "tags": [
+        "cinematic"
+      ]
+    }
+  ],
+  "testimonials": [
+    {
+      "name": "Radhika & Kabir",
+      "role": "Couple · Jaipur Wedding",
+      "avatar": "https://i.pravatar.cc/150?u=radhika",
+      "rating": 5,
+      "text": "Aarav and his team were like ninjas! We hardly noticed them, yet they captured every single tear and laugh perfectly. The cinematic video still makes me cry.",
+      "date": "2025-11-20",
+      "source": "google"
+    },
+    {
+      "name": "Priyanka Seth",
+      "role": "Bride · Udaipur",
+      "avatar": "https://i.pravatar.cc/150?u=priyanka",
+      "rating": 5,
+      "text": "Best decision for our wedding! Unka candids ka style ekdum natural hai. No awkward posing. Albums quality is also ultra premium.",
+      "date": "2026-02-14",
+      "source": "google"
+    },
+    {
+      "name": "Ankit Jain",
+      "role": "Groom · Goa",
+      "avatar": "https://i.pravatar.cc/150?u=ankit",
+      "rating": 5,
+      "text": "They covered our destination wedding in Goa. Highly cooperative team. Same day edit reel was played at the reception and everyone was blown away.",
+      "date": "2025-12-10",
+      "source": "google"
+    },
+    {
+      "name": "Nisha & Dev",
+      "role": "Couple · Pune",
+      "avatar": "https://i.pravatar.cc/150?u=nisha",
+      "rating": 4,
+      "text": "Beautiful photos. Thoda delivery timeline me ek hafta extra laga but output dekh ke sab bhool gaye. Stunning work!",
+      "date": "2026-01-05",
+      "source": "google"
+    },
+    {
+      "name": "Aditi Rao",
+      "role": "Sister of Bride",
+      "avatar": "https://i.pravatar.cc/150?u=aditir",
+      "rating": 5,
+      "text": "The team is so energetic and friendly. Haldi aur sangeet photos are so vibrant! Everyone loves the pictures.",
+      "date": "2025-10-25",
+      "source": "google"
+    },
+    {
+      "name": "Saurabh Mishra",
+      "role": "Groom · Mumbai",
+      "avatar": "https://i.pravatar.cc/150?u=saurabh",
+      "rating": 5,
+      "text": "Pre-wedding shoot at Lonavala was amazing. Aarav knows how to make you comfortable in front of the camera.",
+      "date": "2025-09-12",
+      "source": "google"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Deliverables me kitna time lagta hai?",
+      "a": "Teaser reel 3-5 din me de dete hain social media ke liye. Raw data immediate after event, aur final edited photos & cinematic film me 4-6 weeks lagte hain."
+    },
+    {
+      "q": "Destination wedding ke liye travel cost kaun bear karega?",
+      "a": "Travel aur stay client end se hota hai. Hum travel arrangements khud kar sakte hain but it gets billed at actuals in the final invoice."
+    },
+    {
+      "q": "Do you provide traditional photography also?",
+      "a": "Yes. Har package me humare paas dedicated candid experts aur traditional photographers dono hote hain to ensure nothing is missed."
+    },
+    {
+      "q": "Advance payment kitna hota hai?",
+      "a": "To block the dates, we require a 40% advance. 40% on the day of the event, aur remaining 20% final deliverables handover ke time."
+    }
+  ],
+  "cta": {
+    "primary": {
+      "label": "Check My Date",
+      "intent": "availability_check"
+    },
+    "secondary": {
+      "label": "Save My Contact",
+      "intent": "vcard_download"
+    }
+  },
+  "leadForm": {
+    "title": "Request a callback",
+    "subtitle": "We reply on WhatsApp within 10 minutes.",
+    "fields": [
+      "name",
+      "phone",
+      "message"
+    ],
+    "intent": "callback_request",
+    "consentText": "I agree to be contacted on WhatsApp."
+  },
+  "seo": {
+    "title": "Aditya Rane - Wedding & Candid Photographer, Pune",
+    "description": "Placeholder SEO description for the photographer role.",
+    "keywords": [
+      "wedding photographer pune",
+      "candid photography"
+    ],
+    "ogImage": "auto"
+  },
+  "module": {
+    "availability": {
+      "booked": [
+        "2026-02-14",
+        "2026-02-21"
+      ],
+      "tentative": [
+        "2026-03-05"
+      ],
+      "leadDays": 7
+    },
+    "packages": [
+      {
+        "id": "wed-gold",
+        "name": "Wedding Gold",
+        "price": 185000,
+        "days": 2,
+        "includes": [
+          "2 photographers",
+          "30-page album"
+        ],
+        "popular": true
+      }
+    ],
+    "addons": [
+      {
+        "id": "drone",
+        "name": "Drone Coverage",
+        "price": 25000
+      }
+    ],
+    "styles": [
+      "Candid",
+      "Traditional",
+      "Cinematic"
+    ],
+    "albums": [
+      {
+        "title": "Placeholder Album",
+        "cover": "/images/roles/photographer/image-11.jpg",
+        "photos": [
+          "/images/roles/photographer/image-12.jpg",
+          "/images/roles/photographer/image-13.jpg"
+        ]
+      }
+    ],
+    "showreel": {
+      "url": "/videos/showreel.mp4",
+      "poster": "https://img.youtube.com/vi/aqz-KE-bpKQ/maxresdefault.jpg"
+    },
+    "travelCities": [
+      "Udaipur",
+      "Goa",
+      "Jaipur"
+    ]
+  }
+}
